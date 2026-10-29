@@ -6,7 +6,7 @@
     "creators": [
         "Sanjay Srivastava",
         "Alexa Tullett",
-        "and Simine Vazire"
+        "Simine Vazire"
     ],
     "material_type": [
         "Student Guide",

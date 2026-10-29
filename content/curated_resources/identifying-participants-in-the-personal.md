@@ -4,10 +4,9 @@
     "title": "Identifying Participants in the Personal Genome Project by Name",
     "link_to_resource": "http://dataprivacylab.org/projects/pgp/1021-1.pdf",
     "creators": [
-        "Sweeney",
-        "Latanya",
+        "Latanya Sweeney",
         "Akua Abu",
-        "and Julia Winn."
+        "Julia Winn"
     ],
     "material_type": [
         "Primary Source",

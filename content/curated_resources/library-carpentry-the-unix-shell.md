@@ -80,7 +80,7 @@
         "Rafi Ullah",
         "Raniere Silva",
         "R\u00e9mi Emonet",
-        "reshama shaikh",
+        "Reshama Shaikh",
         "Ruud Steltenpool",
         "sjnair",
         "St\u00e9phane Guillou",

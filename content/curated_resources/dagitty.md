@@ -5,7 +5,8 @@
     "link_to_resource": "https://dagitty.net",
     "creators": [
         "Johannes Texor",
-        "Maciej Li\u015bkiewicz and Benito van der Zander"
+        "Maciej Li\u015bkiewicz",
+        "Benito van der Zander"
     ],
     "material_type": [
         "Teaching/Learning Strategy",

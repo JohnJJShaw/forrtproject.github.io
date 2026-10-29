@@ -4,9 +4,8 @@
     "title": "Power Analysis and Effect Size in Mixed Effects Models: A Tutorial. ",
     "link_to_resource": "https://doi.org/10.5334/joc.10",
     "creators": [
-        "Brysbaert",
-        "M. and Stevens",
-        "M."
+        "M. Brysbaert",
+        "M. Stevens"
     ],
     "material_type": [
         "Primary Source",

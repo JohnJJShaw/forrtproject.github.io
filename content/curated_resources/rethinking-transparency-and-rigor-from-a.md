@@ -33,22 +33,13 @@
     ],
     "subject_areas": [
         "Applied Science",
-        "Arts and Humanities",
-        "Business and Communication",
-        "Career and Technical Education",
-        "Education",
-        "English Language Arts",
-        "History",
-        "Law",
-        "Life Science",
-        "Math & Statistics",
-        "Physical Science",
         "Social Science"
     ],
     "FORRT_clusters": [
         "Reproducibility and Replicability Knowledge",
         "Conceptual and Statistical Knowledge",
-        "Academic Life and Culture"
+        "Academic Life and Culture",
+        "Reproducible Analyses"
     ],
     "tags": [
         "Open Science",

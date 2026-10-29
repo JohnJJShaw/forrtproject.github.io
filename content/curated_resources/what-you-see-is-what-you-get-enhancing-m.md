@@ -5,7 +5,8 @@
     "link_to_resource": "https://doi.org/10.5465/annals.2016.0011",
     "creators": [
         "Herman Aguinis",
-        "Ravi S. Ramani and Nawaf Alabduljader"
+        "Ravi S. Ramani",
+        "Nawaf Alabduljader"
     ],
     "material_type": [
         "Primary Source",

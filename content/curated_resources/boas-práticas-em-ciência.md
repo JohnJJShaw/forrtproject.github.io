@@ -4,7 +4,8 @@
     "title": "Boas pr\u00e1ticas em ci\u00eancia",
     "link_to_resource": "https://osf.io/dwf3z/",
     "creators": [
-        "Ana Paula Herrmann and Mailton Fran\u00e7a de Vasconcelos"
+        "Ana Paula Herrmann",
+        "Mailton Fran\u00e7a de Vasconcelos"
     ],
     "material_type": [
         "Syllabus"

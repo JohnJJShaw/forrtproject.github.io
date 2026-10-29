@@ -11,7 +11,7 @@
         "James Manyika",
         "E. Albert Reece",
         "James Marschall Shepherd",
-        "Grace Wang."
+        "Grace Wang"
     ],
     "material_type": [
         "Lecture"

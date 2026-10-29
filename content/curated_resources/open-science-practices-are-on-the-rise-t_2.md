@@ -4,14 +4,13 @@
     "title": "Open Science Practices are on the Rise: The State of Social Science (3S) Survey",
     "link_to_resource": "https://escholarship.org/uc/item/0hx0207r",
     "creators": [
-        "Christensen",
-        "Garret; Wang",
-        "Zenan; Levy Paluck",
-        "Elizabeth; Swanson",
-        "Nicholas; Birke",
-        "David; Miguel",
-        "Edward; Littman",
-        "Rebecca"
+        "Garret Christensen",
+        "Zenan Wang",
+        "Elizabeth Levy Paluck",
+        "Nicholas Swanson",
+        "David Birke",
+        "Edward Miguel",
+        "Rebecca Littman"
     ],
     "material_type": [
         "Reading"

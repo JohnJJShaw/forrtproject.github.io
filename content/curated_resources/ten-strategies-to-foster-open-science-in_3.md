@@ -1,11 +1,12 @@
 {
-    "exclude": "",
+    "exclude": true,
     "timestamp": "2/27/2025 3:37:25",
     "title": "Ten Strategies to Foster Open Science in Psychology and Beyond",
     "link_to_resource": "https://doi.org/10.1525/collabra.57545",
     "creators": [
         "Nicol\u00e1s Alessandroni",
-        "Krista Byers-Heinlein and Katie Corker"
+        "Krista Byers-Heinlein",
+        "Katie Corker"
     ],
     "material_type": [
         "Reading"

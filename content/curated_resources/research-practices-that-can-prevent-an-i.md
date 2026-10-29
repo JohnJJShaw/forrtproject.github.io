@@ -5,7 +5,8 @@
     "link_to_resource": "https://doi.org/10.1177/1088868313496330",
     "creators": [
         "Kou Murayama",
-        "Reinhard Pekrun and Klaus Fiedler"
+        "Reinhard Pekrun",
+        "Klaus Fiedler"
     ],
     "material_type": [
         "Primary Source",

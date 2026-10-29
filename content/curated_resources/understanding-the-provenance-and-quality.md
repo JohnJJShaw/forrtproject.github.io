@@ -20,7 +20,8 @@
         "Florian Naudet",
         "Ulrich Mansmann",
         "Maia Salholz-Hillel",
-        "Anita Bandrowski & Malcolm R. Macleod"
+        "Anita Bandrowski",
+        "Malcolm R. Macleod"
     ],
     "material_type": [
         "Reading"

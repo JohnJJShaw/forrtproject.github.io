@@ -4,7 +4,8 @@
     "title": "Opening Science",
     "link_to_resource": "http://doi.org/10.1007/978-3-319-00026-8",
     "creators": [
-        "S\u00f6nke Bartling and Sascha Friesike"
+        "S\u00f6nke Bartling",
+        "Sascha Friesike"
     ],
     "material_type": [
         "Primary Source",

@@ -6,7 +6,8 @@
     "creators": [
         "Matthew Kim",
         "Adrienne D. Woods",
-        "Alexa Ellis and Pamela Davis-Kean"
+        "Alexa Ellis",
+        "Pamela Davis-Kean"
     ],
     "material_type": [
         "Syllabus"

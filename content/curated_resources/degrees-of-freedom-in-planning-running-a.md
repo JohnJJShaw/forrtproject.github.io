@@ -9,7 +9,7 @@
         "Hilde E. M. Augusteijn",
         "Marjan Bakker",
         "Robbie C. M. van Aert",
-        "and Marcel A. L. M. van Assen"
+        "Marcel A. L. M. van Assen"
     ],
     "material_type": [
         "Primary Source",

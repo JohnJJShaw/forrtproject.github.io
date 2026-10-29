@@ -4,8 +4,7 @@
     "title": "Theoretical risks and tabular asterisks: Sir Karl, Sir Ronald, and the slow progress of soft psychology.",
     "link_to_resource": "https://doi.org/10.1037/0022-006X.46.4.806",
     "creators": [
-        "Meehl",
-        "P. E"
+        "P. E. Meehl"
     ],
     "material_type": [
         "Primary Source",

@@ -6,7 +6,8 @@
     "creators": [
         "Tugba Akinci D\u2019Antonoli",
         "Renato Cuocolo",
-        "Bettina Baessler & Daniel Pinto dos Santos"
+        "Bettina Baessler",
+        "Daniel Pinto dos Santos"
     ],
     "material_type": [
         "Reading"

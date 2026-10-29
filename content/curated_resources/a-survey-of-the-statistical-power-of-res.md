@@ -4,10 +4,8 @@
     "title": "A survey of the statistical power of research in behavioral ecology and animal behavior.",
     "link_to_resource": "https://doi.org/10.1093/beheco/14.3.438",
     "creators": [
-        "Jennions",
-        "M. D.",
-        "& M\u00f8ller",
-        "A. P."
+        "M. D. Jennions",
+        "A. P. M\u00f8ller"
     ],
     "material_type": [
         "Primary Source",

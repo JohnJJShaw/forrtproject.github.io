@@ -20,28 +20,38 @@
     ],
     "material_type": [
         "Activity/Lab",
-        "Reading"
+        "Reading",
+        "Handbook"
     ],
     "education_level": [
-        "College / Upper Division (Undergraduates)"
+        "College / Upper Division (Undergraduates)",
+        "Graduate / Professional",
+        "Adult Education"
     ],
     "abstract": "A collection about open science",
     "language": [
         "English"
     ],
-    "conditions_of_use": "I don't see any of these",
+    "conditions_of_use": "Public Domain",
     "primary_user": [
         "Student",
-        "Teacher"
+        "Teacher",
+        "Librarian"
     ],
     "subject_areas": [
         "Applied Science",
         "Life Science",
-        "Social Science"
+        "Social Science",
+        "Arts and Humanities",
+        "Education"
     ],
     "FORRT_clusters": [
         "Reproducible Analyses",
-        "Open Data and Materials"
+        "Open Data and Materials",
+        "Reproducibility and Replicability Knowledge",
+        "Conceptual and Statistical Knowledge",
+        "Preregistration",
+        "Academic Life and Culture"
     ],
     "tags": [
         ""

@@ -31,7 +31,7 @@
         "Jeff Oliver",
         "Jonah Duckles",
         "Juan M. Barrios",
-        "juli arancio",
+        "Juli Arancio",
         "Katrin Leinweber",
         "Kevin Alquicira",
         "Kevin Mart\u00ednez-Folgar",

@@ -4,12 +4,9 @@
     "title": "Construct validation in social and personality research: Current practice and recommendations. ",
     "link_to_resource": "http://doi.org/10.1177/1948550617693063",
     "creators": [
-        "Flake",
-        "J. K.",
-        "Pek",
-        "J.",
-        "& Hehman",
-        "E."
+        "J. K. Flake",
+        "J. Pek",
+        "E. Hehman"
     ],
     "material_type": [
         "Primary Source",

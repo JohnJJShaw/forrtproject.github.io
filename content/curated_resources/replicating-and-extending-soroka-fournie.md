@@ -21,7 +21,7 @@
     "language": [
         "English"
     ],
-    "conditions_of_use": "I don't see any of these",
+    "conditions_of_use": "CC BY",
     "primary_user": [
         "Student",
         "Teacher",
@@ -34,13 +34,14 @@
     "FORRT_clusters": [
         "Reproducibility and Replicability Knowledge",
         "Reproducible Analyses",
-        "Preregistration"
+        "Preregistration",
+        "Replication Research"
     ],
     "tags": [
         "OSCA Awards 2025"
     ],
-    "forrt_clusters_new": "Pre-analysis Planning",
-    "forrt_sub_clusters": "Preregistration, Study Design",
+    "forrt_clusters_new": "Pre-analysis Planning, Replication and meta-research",
+    "forrt_sub_clusters": "Preregistration, Study Design, Conducting replication studies; challenges, limitations, and comparisons with the original study, Direct vs. conceptual replications",
     "doi": "",
     "in-clusters": false,
     "pdf name": "",

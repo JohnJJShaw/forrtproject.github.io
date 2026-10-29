@@ -4,7 +4,8 @@
     "title": "Optimizing Research Payoff",
     "link_to_resource": "https://doi.org/10.1177/1745691616649170",
     "creators": [
-        "Jeff Miller and Rolf Ulrich"
+        "Jeff Miller",
+        "Rolf Ulrich"
     ],
     "material_type": [
         "Primary Source",

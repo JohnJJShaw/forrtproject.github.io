@@ -7,7 +7,7 @@
         "Brian A. Nosek",
         "Charles R. Ebersole",
         "Alexander C. DeHaven",
-        "and David T. Mellor"
+        "David T. Mellor"
     ],
     "material_type": [
         "Primary Source",

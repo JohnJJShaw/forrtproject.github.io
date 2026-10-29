@@ -11,7 +11,8 @@
         "Ashleigh Dickson",
         "Daniel J. Davis",
         "Alex DeHaven",
-        "Jaime Bochantin & Jared Borns"
+        "Jaime Bochantin",
+        "Jared Borns"
     ],
     "material_type": [
         "Reading"

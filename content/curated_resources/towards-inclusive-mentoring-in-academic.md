@@ -17,7 +17,7 @@
     "language": [
         "English"
     ],
-    "conditions_of_use": "CC BY",
+    "conditions_of_use": "I don't see any of these",
     "primary_user": [
         "Student",
         "Teacher"

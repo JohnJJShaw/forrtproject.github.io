@@ -7,7 +7,8 @@
         "Maryam Zarghani",
         "Leila Nemati-Anaraki",
         "Shahram Sedghi",
-        "Abdolreza Noroozi Chakoli & Anisa Rowhani-Farid"
+        "Abdolreza Noroozi Chakoli",
+        "Anisa Rowhani-Farid"
     ],
     "material_type": [
         "Reading"

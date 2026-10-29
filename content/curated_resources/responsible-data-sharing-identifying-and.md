@@ -6,7 +6,7 @@
     "creators": [
         "Kirsten Morehouse",
         "Benedek Kurdi",
-        "and Brian A. Nosek"
+        "Brian A. Nosek"
     ],
     "material_type": [
         "Reading"

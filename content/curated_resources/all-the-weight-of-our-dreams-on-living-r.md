@@ -5,7 +5,8 @@
     "link_to_resource": "https://autismandrace.com/",
     "creators": [
         "Lydia X. Z. Brown",
-        "E. Ashkenazy and Mor\u00e9nike Giwa Onaiwu"
+        "E. Ashkenazy",
+        "Mor\u00e9nike Giwa Onaiwu"
     ],
     "material_type": [
         "Reading"

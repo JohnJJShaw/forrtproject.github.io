@@ -4,7 +4,7 @@
     "title": "Introduction to simulations",
     "link_to_resource": "https://www.youtube.com/watch?v=LD5t57MAEB0&list=PLB_6juUbmewMfkdwM5cV_5n7Sroufo-Qb",
     "creators": [
-        "Professor Dorothy Bishop"
+        "Dorothy Bishop"
     ],
     "material_type": [
         "Video"

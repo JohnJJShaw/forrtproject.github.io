@@ -4,7 +4,8 @@
     "title": "A proposal for a new editorial policy in the social sciences.",
     "link_to_resource": "https://doi.org/10.1080/00031305.1970.10478884",
     "creators": [
-        "G. William Walster &T. Anne Cleary"
+        "G. William Walster",
+        "T. Anne Cleary"
     ],
     "material_type": [
         "Primary Source",

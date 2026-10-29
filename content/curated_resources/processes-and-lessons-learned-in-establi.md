@@ -17,7 +17,7 @@
         "Kathryn Pollak",
         "Christine S. Ritchie",
         "Jean Kutner",
-        "and Sebastian Karcher"
+        "Sebastian Karcher"
     ],
     "material_type": [
         "Reading"

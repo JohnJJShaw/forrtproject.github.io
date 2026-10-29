@@ -7,7 +7,7 @@
         "Will M. Gervais",
         "Jennifer A. Jewell",
         "Maxine B. Najle",
-        "and Ben K. L. Ng"
+        "Ben K. L. Ng"
     ],
     "material_type": [
         "Primary Source",

@@ -5,7 +5,8 @@
     "link_to_resource": "https://doi.org/10.1016/j.jesp.2015.09.009",
     "creators": [
         "Joachim H\u00fcffmeier",
-        "Jens Mazei and Thomas Schultze"
+        "Jens Mazei",
+        "Thomas Schultze"
     ],
     "material_type": [
         "Primary Source",

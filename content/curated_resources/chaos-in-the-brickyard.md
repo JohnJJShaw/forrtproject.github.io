@@ -4,8 +4,7 @@
     "title": "Chaos in the brickyard",
     "link_to_resource": "https://doi.org/10.1126/science.142.3590.339",
     "creators": [
-        "Forscher",
-        "B. K."
+        "B. K. Forscher"
     ],
     "material_type": [
         "Primary Source",

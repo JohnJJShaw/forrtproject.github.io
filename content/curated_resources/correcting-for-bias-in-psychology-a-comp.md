@@ -7,7 +7,7 @@
         "Evan C. Carter",
         "Felix D. Sch\u00f6nbrodt",
         "Will M. Gervais",
-        "and Joseph Hilgard"
+        "Joseph Hilgard"
     ],
     "material_type": [
         "Primary Source",

@@ -12,7 +12,8 @@
         "Susanne Vogel",
         "Yu-Fang Yang",
         "Gordon B. Feld",
-        "Alexandros Kastrinogiannis and Alina Koppold"
+        "Alexandros Kastrinogiannis",
+        "Alina Koppold"
     ],
     "material_type": [
         "Resource Navigator"

@@ -4,7 +4,8 @@
     "title": "Addressing the issue of representation in an undergraduate psych class",
     "link_to_resource": "https://forrt.org/educators-corner/001-representation-heatherurry/",
     "creators": [
-        "Heather Urry & Framework for Open and Reproducible Research Training (FORRT)"
+        "Heather Urry",
+        "Framework for Open and Reproducible Research Training (FORRT)"
     ],
     "material_type": [
         "Reading",

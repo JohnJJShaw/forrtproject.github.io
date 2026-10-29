@@ -4,9 +4,10 @@
     "title": "Effect sizes and p values: What should be reported and what should be replicated? ",
     "link_to_resource": "https://doi.org/10.1111/j.1469-8986.1996.tb02121.x",
     "creators": [
-        "ANTHONY G. GREENWALD",
-        "RICHARD GONZALEZ",
-        "RICHARD J. HARRIS and DONALD GUTHRIE"
+        "Anthony G. Greenwald",
+        "Richard Gonzalez",
+        "Richard J. Harris",
+        "Donald Guthrie"
     ],
     "material_type": [
         "Primary Source",

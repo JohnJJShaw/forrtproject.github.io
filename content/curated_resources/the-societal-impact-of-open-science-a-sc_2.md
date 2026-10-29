@@ -7,7 +7,8 @@
         "Nicki Lisa Cole",
         "Eva Kormann",
         "Thomas Klebel",
-        "Simon Apartis and Tony Ross-Hellauer"
+        "Simon Apartis",
+        "Tony Ross-Hellauer"
     ],
     "material_type": [
         "Reading"

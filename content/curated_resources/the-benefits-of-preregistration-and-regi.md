@@ -7,7 +7,7 @@
         "Daniel Lakens",
         "Cristian Mesquida",
         "Sajedeh Rasti",
-        "and Massimiliano Ditroilo"
+        "Massimiliano Ditroilo"
     ],
     "material_type": [
         "Reading"

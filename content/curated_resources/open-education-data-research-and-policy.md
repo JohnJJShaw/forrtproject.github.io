@@ -4,8 +4,7 @@
     "title": "Open Education Data, Research, and Policy Positions",
     "link_to_resource": "https://www.linkedin.com/posts/akishasarfo_open-data-research-and-policy-positions-activity-7305896481322852352-Tpi0/?utm_source=share&utm_medium=member_android&rcm=ACoAADDrPWUBQwkSk7hp5Q0QEagW6rVUXSQt_bA",
     "creators": [
-        "Akisha Osei Sarfo",
-        "Ph.D."
+        "Akisha Osei Sarfo"
     ],
     "material_type": [
         "Data Set",

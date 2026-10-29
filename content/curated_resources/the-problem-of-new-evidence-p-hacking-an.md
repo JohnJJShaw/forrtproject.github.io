@@ -4,8 +4,8 @@
     "title": "The Problem of New Evidence: P-Hacking and Pre-Analysis Plans",
     "link_to_resource": "http://dx.doi.org/10.33392/diam.1587",
     "creators": [
-        "Hitzig Zo\u00eb",
-        "Stegenga Jacob"
+        "Zo\u00eb Hitzig",
+        "Jacob Stegenga"
     ],
     "material_type": [
         "Reading"

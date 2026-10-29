@@ -7,7 +7,8 @@
         "Khan Sharun",
         "S. Amitha Banu",
         "A. M. Pawde",
-        "Kuldeep Dhama & Amar Pal"
+        "Kuldeep Dhama",
+        "Amar Pal"
     ],
     "material_type": [
         "Reading"

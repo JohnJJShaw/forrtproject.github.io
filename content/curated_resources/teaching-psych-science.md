@@ -4,9 +4,9 @@
     "title": "teaching psych science",
     "link_to_resource": "http://www.teachpsychscience.org/",
     "creators": [
-        "Lewandowski",
-        "Jr.",
-        "Ciarocco and Strohmetz"
+        "Lewandowski Jr.",
+        "Ciarocco",
+        "Strohmetz"
     ],
     "material_type": [
         "Activity/Lab",

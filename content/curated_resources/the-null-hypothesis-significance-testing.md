@@ -4,7 +4,8 @@
     "title": "The Null Hypothesis Significance-Testing Debate and Its Implications for Personality Research",
     "link_to_resource": "https://yourpersonality.net/pdf/Fraley%20NHST%20reformatted.pdf",
     "creators": [
-        "R. Chris Fraley and Michael J. Marks"
+        "R. Chris Fraley",
+        "Michael J. Marks"
     ],
     "material_type": [
         "Primary Source",

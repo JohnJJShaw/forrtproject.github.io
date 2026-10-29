@@ -6,9 +6,8 @@
     "creators": [
         "Kyle Cavagnini",
         "Carolyn Shore",
-        "Megan Snair (National Academies of Sciences",
-        "Engineering",
-        "and Medicine)"
+        "Megan Snair",
+        "National Academies of Sciences Engineering and Medicine"
     ],
     "material_type": [
         "Workshop proceedings"

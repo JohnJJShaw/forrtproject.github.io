@@ -66,7 +66,8 @@
         "Ilaria Sani",
         "Winrich A. Freiwald",
         "Aina Puce",
-        "Nicholas L. Port & Franco Pestilli"
+        "Nicholas L. Port",
+        "Franco Pestilli"
     ],
     "material_type": [
         "Reading"

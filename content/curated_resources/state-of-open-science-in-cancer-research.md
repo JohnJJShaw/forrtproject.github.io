@@ -7,7 +7,8 @@
         "Cristina Rius",
         "Yiming Liu",
         "Andrea Sixto-Costoya",
-        "Juan Carlos Valderrama-Zuri\u00e1n & Rut Lucas-Dominguez"
+        "Juan Carlos Valderrama-Zuri\u00e1n",
+        "Rut Lucas-Dominguez"
     ],
     "material_type": [
         "Reading"

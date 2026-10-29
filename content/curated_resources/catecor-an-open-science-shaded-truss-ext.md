@@ -12,7 +12,8 @@
         "Nicholas F. Erickson",
         "Sarah A. Kovac",
         "Ritesh Patel",
-        "Anna Tosolini & Matthew J. West"
+        "Anna Tosolini",
+        "Matthew J. West"
     ],
     "material_type": [
         "Reading"

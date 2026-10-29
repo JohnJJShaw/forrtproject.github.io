@@ -107,7 +107,7 @@
         "Trevor Bekolay",
         "Tyler Crawford Kelly",
         "Vicken Hillis",
-        "waiteb5",
+        "waiteb",
         "Yuka Takemon"
     ],
     "material_type": [

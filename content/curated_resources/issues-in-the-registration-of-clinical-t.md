@@ -4,7 +4,12 @@
     "title": "Issues in the Registration of Clinical Trials",
     "link_to_resource": "https://doi.org/10.1001/jama.297.19.2112",
     "creators": [
-        "Deborah A. Zarin; Nicholas C. Ide; Tony Tse; William R. Harlan; Joyce C. West; Donald A. B. Lindberg"
+        "Deborah A. Zarin",
+        "Nicholas C. Ide",
+        "Tony Tse",
+        "William R. Harlan",
+        "Joyce C. West",
+        "Donald A. B. Lindberg"
     ],
     "material_type": [
         "Reading"

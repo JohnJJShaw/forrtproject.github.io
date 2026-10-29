@@ -4,14 +4,10 @@
     "title": "Publication bias and the canonization of false facts. ",
     "link_to_resource": "https://doi.org/10.7554/eLife.21451",
     "creators": [
-        "Nissen",
-        "S. B.",
-        "Magidson",
-        "T.",
-        "Gross",
-        "K.",
-        "& Bergstrom",
-        "C. T."
+        "S. B. Nissen",
+        "T. Magidson",
+        "K. Gross",
+        "C. T. Bergstrom"
     ],
     "material_type": [
         "Primary Source",

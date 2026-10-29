@@ -9,7 +9,8 @@
         "St\u00e9phanie van der Burgt",
         "Saskia Peerdeman",
         "Jeroen Geurts",
-        "Joyce Lamerichs & Linda Douw"
+        "Joyce Lamerichs",
+        "Linda Douw"
     ],
     "material_type": [
         "Reading"

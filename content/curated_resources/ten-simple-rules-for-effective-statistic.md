@@ -4,7 +4,7 @@
     "title": "Ten Simple Rules for Effective Statistical Practice",
     "link_to_resource": "https://doi.org/10.1371/journal.pcbi.1004961",
     "creators": [
-        "Robert E.Kass et al."
+        "Robert E. Kass et al."
     ],
     "material_type": [
         "Primary Source",

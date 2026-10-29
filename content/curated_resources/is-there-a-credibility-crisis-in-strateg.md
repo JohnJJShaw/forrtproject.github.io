@@ -6,7 +6,8 @@
     "creators": [
         "Donald D Bergh",
         "Barton M Sharp",
-        "Herman Aguinis and Ming Li"
+        "Herman Aguinis",
+        "Ming Li"
     ],
     "material_type": [
         "Primary Source",

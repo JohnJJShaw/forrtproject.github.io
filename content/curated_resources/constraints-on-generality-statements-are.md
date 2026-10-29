@@ -5,7 +5,8 @@
     "link_to_resource": "https://doi.org/10.1017/S0140525X18000845",
     "creators": [
         "Daniel J. Simons",
-        "Yuichi Shoda and D. Stephen Lindsay"
+        "Yuichi Shoda",
+        "D. Stephen Lindsay"
     ],
     "material_type": [
         "Primary Source",

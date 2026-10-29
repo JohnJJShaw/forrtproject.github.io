@@ -6,7 +6,7 @@
     "creators": [
         "Dragana Stojmenovska",
         "Thijs Bol",
-        "and Thomas Leopold"
+        "Thomas Leopold"
     ],
     "material_type": [
         "Case Study",

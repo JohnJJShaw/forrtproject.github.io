@@ -4,7 +4,8 @@
     "title": "When is science (un)reliable?",
     "link_to_resource": "https://osf.io/9hytb/",
     "creators": [
-        "Tim Parker and Tom Armstrong"
+        "Tim Parker",
+        "Tom Armstrong"
     ],
     "material_type": [
         "Syllabus"

@@ -5,7 +5,8 @@
     "link_to_resource": "https://cognitiveresearchjournal.springeropen.com/articles/10.1186/s41235-024-00553-x",
     "creators": [
         "V. N. Vimal Rao",
-        "Jeffrey K. Bye & Sashank Varma"
+        "Jeffrey K. Bye",
+        "Sashank Varma"
     ],
     "material_type": [
         "Reading"

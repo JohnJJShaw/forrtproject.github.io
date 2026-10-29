@@ -42,7 +42,7 @@
         "Sean Grant",
         "Thu-Mai Lewis Christian",
         "William X. Q. Ngiam",
-        "and Moin Syed"
+        "Moin Syed"
     ],
     "material_type": [
         "Reading"

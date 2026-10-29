@@ -1,5 +1,5 @@
 {
-    "exclude": "",
+    "exclude": true,
     "timestamp": "2/20/2025 5:45:04",
     "title": "The challenges of open data sharing for qualitative researchers",
     "link_to_resource": "https://doi.org/10.1177/13591053241237620",
@@ -7,7 +7,7 @@
         "Danielle Lamb",
         "Amy Russell",
         "Nicola Morant",
-        "and Fiona Stevenson"
+        "Fiona Stevenson"
     ],
     "material_type": [
         "Reading"

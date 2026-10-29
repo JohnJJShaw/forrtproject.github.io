@@ -6,7 +6,8 @@
     "creators": [
         "Wolf Vanpaemel",
         "Maarten Vermorgen",
-        "Leen Deriemaecker and Gert Storms"
+        "Leen Deriemaecker",
+        "Gert Storms"
     ],
     "material_type": [
         "Primary Source",

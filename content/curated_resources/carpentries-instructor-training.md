@@ -54,7 +54,7 @@
         "Mik Black",
         "Mike Henry",
         "Murray Cadzow",
-        "naught101",
+        "naught",
         "Neal Davis",
         "Neil Kindlon",
         "Nicholas Tierney",

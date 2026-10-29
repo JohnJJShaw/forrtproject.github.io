@@ -6,7 +6,7 @@
     "creators": [
         "Joanna Schimizzi",
         "Brandon Butler",
-        "and Becca Neel"
+        "Becca Neel"
     ],
     "material_type": [
         "Lesson"

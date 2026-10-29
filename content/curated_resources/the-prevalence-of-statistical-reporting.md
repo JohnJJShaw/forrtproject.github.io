@@ -7,7 +7,8 @@
         "Mich\u00e8le B. Nuijten",
         "Chris H. J. Hartgerink",
         "Marcel A. L. M. van Assen",
-        "Sacha Epskamp & Jelte M. Wicherts"
+        "Sacha Epskamp",
+        "Jelte M. Wicherts"
     ],
     "material_type": [
         "Primary Source",

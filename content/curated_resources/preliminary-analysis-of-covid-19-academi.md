@@ -5,7 +5,8 @@
     "link_to_resource": "https://doi.org/10.1007/s11192-020-03587-2",
     "creators": [
         "J. Homolak",
-        "I. Kodvanj & D. Virag"
+        "I. Kodvanj",
+        "D. Virag"
     ],
     "material_type": [
         "Reading"

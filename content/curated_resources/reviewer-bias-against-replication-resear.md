@@ -4,9 +4,8 @@
     "title": "Reviewer Bias Against Replication Research",
     "link_to_resource": "https://search.proquest.com/docview/1292304227?pq-origsite=gscholar&fromopenview=true&imgSeq=1",
     "creators": [
-        "Neuliep",
-        "J W; Crandall",
-        "R."
+        "J. W. Neuliep",
+        "R. Crandall"
     ],
     "material_type": [
         "Primary Source",

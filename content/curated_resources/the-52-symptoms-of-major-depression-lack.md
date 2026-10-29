@@ -4,7 +4,7 @@
     "title": "The 52 symptoms of major depression: Lack of content overlap among seven common depression scales",
     "link_to_resource": "https://doi.org/10.1016/j.jad.2016.10.019",
     "creators": [
-        "Eiko I.Fried"
+        "Eiko I. Fried"
     ],
     "material_type": [
         "Primary Source",

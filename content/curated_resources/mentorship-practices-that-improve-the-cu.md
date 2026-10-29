@@ -13,7 +13,8 @@
         "Pablo Gomez",
         "Franki Y. H. Kung",
         "Paul C. McKee",
-        "Miriam P\u00e9rez & Sarah M. Stilwell"
+        "Miriam P\u00e9rez",
+        "Sarah M. Stilwell"
     ],
     "material_type": [
         "Reading"

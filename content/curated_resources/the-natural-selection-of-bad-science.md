@@ -4,10 +4,8 @@
     "title": "The natural selection of bad science.",
     "link_to_resource": "https://doi.org/10.1098/rsos.160384",
     "creators": [
-        "Smaldino",
-        "P. E.",
-        "& McElreath",
-        "R."
+        "P. E. Smaldino",
+        "R. McElreath"
     ],
     "material_type": [
         "Primary Source",

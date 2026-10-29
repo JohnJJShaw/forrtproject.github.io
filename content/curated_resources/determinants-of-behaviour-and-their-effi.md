@@ -5,7 +5,8 @@
     "link_to_resource": "https://doi.org/10.1038/s44159-024-00305-0",
     "creators": [
         "Dolores Albarrac\u00edn",
-        "Bita Fayaz-Farkhad & Javier A. Granados Samayoa"
+        "Bita Fayaz-Farkhad",
+        "Javier A. Granados Samayoa"
     ],
     "material_type": [
         "Reading"

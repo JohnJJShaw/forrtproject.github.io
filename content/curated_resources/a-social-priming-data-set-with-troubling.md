@@ -7,7 +7,8 @@
         "Harold Pashler",
         "Doug Rohrer",
         "Ian Abramson",
-        "Tanya Wolfson &Christine R. Harris"
+        "Tanya Wolfson",
+        "Christine R. Harris"
     ],
     "material_type": [
         "Primary Source",

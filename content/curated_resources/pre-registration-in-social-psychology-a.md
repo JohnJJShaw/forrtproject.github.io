@@ -4,10 +4,8 @@
     "title": "Pre-registration in social psychology\u2014A discussion and suggested template",
     "link_to_resource": "https://doi.org/10.1016/j.jesp.2016.03.004",
     "creators": [
-        "van \u2018t Veer",
-        "A.E.",
-        "& Giner-Sorolla",
-        "R."
+        "A. E. van \u2018t Veer",
+        "R. Giner-Sorolla"
     ],
     "material_type": [
         "Primary Source",

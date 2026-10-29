@@ -6,7 +6,7 @@
     "creators": [
         "Matthew C. Makel",
         "Jonathan A. Plucker",
-        "and Boyd Hegarty"
+        "Boyd Hegarty"
     ],
     "material_type": [
         "Primary Source",

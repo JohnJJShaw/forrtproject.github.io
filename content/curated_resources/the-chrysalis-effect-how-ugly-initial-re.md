@@ -4,8 +4,7 @@
     "title": "The Chrysalis Effect: How Ugly Initial Results Metamorphosize Into Beautiful Articles",
     "link_to_resource": "http://doi.org/10.1177/0149206314527133",
     "creators": [
-        "Ernest Hugh O\u2019Boyle",
-        "Jr.",
+        "Ernest Hugh O\u2019Boyle Jr.",
         "George Christopher Banks",
         "Erik Gonzalez-Mul\u00e9"
     ],

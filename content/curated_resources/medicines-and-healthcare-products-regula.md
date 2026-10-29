@@ -20,7 +20,7 @@
         "Graham Wheeler",
         "S. Faye Williamson",
         "Christina Yap",
-        "& Thomas Jaki"
+        "Thomas Jaki"
     ],
     "material_type": [
         "Reading"

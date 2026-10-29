@@ -4,7 +4,8 @@
     "title": "A Vast Graveyard of Undead Theories: Publication Bias and Psychological Science\u2019s Aversion to the Null",
     "link_to_resource": "https://doi.org/10.1177/1745691612459059",
     "creators": [
-        "Christopher J. Ferguson and Moritz Heene"
+        "Christopher J. Ferguson",
+        "Moritz Heene"
     ],
     "material_type": [
         "Primary Source",

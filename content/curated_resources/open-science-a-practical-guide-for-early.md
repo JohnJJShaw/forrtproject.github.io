@@ -8,7 +8,7 @@
         "Elly Dijk",
         "Hans de Jonge",
         "Nicole Loorbach",
-        "& Daan Rutten"
+        "Daan Rutten"
     ],
     "material_type": [
         "Reading"

@@ -12,7 +12,7 @@
     "education_level": [
         "Graduate / Professional"
     ],
-    "abstract": "This recorded webinar features insights from international panelists currently nurturing culture change in research among their local communities.Representat...",
+    "abstract": "This recorded webinar features insights from international panelists currently nurturing culture change in research among their local communities. Representat...",
     "language": [
         "English"
     ],

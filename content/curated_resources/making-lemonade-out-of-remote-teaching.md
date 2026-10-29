@@ -4,7 +4,8 @@
     "title": "Making lemonade out of remote teaching",
     "link_to_resource": "https://forrt.org/educators-corner/005-remote-teaching-platform/",
     "creators": [
-        "Leticia Micheli & Framework for Open and Reproducible Research Training (FORRT)"
+        "Leticia Micheli",
+        "Framework for Open and Reproducible Research Training (FORRT)"
     ],
     "material_type": [
         "Interactive",

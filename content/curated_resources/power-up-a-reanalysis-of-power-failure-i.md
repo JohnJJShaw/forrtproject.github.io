@@ -6,7 +6,8 @@
     "creators": [
         "Camilla L. Nord",
         "Vincent Valton",
-        "John Wood and Jonathan P. Roiser"
+        "John Wood",
+        "Jonathan P. Roiser"
     ],
     "material_type": [
         "Primary Source",

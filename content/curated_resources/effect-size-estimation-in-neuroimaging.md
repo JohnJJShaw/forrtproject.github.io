@@ -5,7 +5,8 @@
     "link_to_resource": "https://doi.org/10.1001/jamapsychiatry.2016.3356",
     "creators": [
         "Marianne C. Reddan",
-        "Martin A. Lindquist and Tor D. Wager"
+        "Martin A. Lindquist",
+        "Tor D. Wager"
     ],
     "material_type": [
         "Primary Source",

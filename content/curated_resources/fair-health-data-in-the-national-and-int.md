@@ -14,7 +14,8 @@
         "Lea Michaelis",
         "Ines Reinecke",
         "Martin Sedlmayr",
-        "Sylvia Thun & Dagmar Krefting"
+        "Sylvia Thun",
+        "Dagmar Krefting"
     ],
     "material_type": [
         "Reading"

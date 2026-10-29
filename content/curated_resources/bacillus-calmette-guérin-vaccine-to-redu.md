@@ -9,8 +9,7 @@
         "Lisa Belin",
         "Christine S. Benn",
         "Marc J.M. Bonten",
-        "Jeffrey D. Cirillo",
-        "et al."
+        "Jeffrey D. Cirillo et al."
     ],
     "material_type": [
         "Article"

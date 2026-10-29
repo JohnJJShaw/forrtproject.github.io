@@ -5,7 +5,8 @@
     "link_to_resource": "https://doi.org/10.1111/spc3.12267",
     "creators": [
         "Jin X. Goh",
-        "Judith A. Hall and Robert Rosenthal"
+        "Judith A. Hall",
+        "Robert Rosenthal"
     ],
     "material_type": [
         "Primary Source",

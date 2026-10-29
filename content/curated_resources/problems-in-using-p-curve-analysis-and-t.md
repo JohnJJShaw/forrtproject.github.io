@@ -4,10 +4,8 @@
     "title": "Problems in using p-curve analysis and text-mining to detect rate of p-hacking.",
     "link_to_resource": "https://doi.org/10.7287/peerj.preprints.1266v3",
     "creators": [
-        "Bishop",
-        "D. V",
-        "& Thompson",
-        "P. A."
+        "D. V. Bishop",
+        "P. A. Thompson"
     ],
     "material_type": [
         "Primary Source",

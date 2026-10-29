@@ -5,7 +5,9 @@
     "link_to_resource": "https://doi.org/10.1017/S0140525X17001972",
     "creators": [
         "Rolf A. Zwaan",
-        "Alexander Etz Richard E. Lucas and M. Brent Donnellan"
+        "Alexander Etz",
+        "Richard E. Lucas",
+        "M. Brent Donnellan"
     ],
     "material_type": [
         "Primary Source",

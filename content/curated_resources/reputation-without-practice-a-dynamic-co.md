@@ -7,7 +7,7 @@
         "Maximilian Linde",
         "Merle-Marie Pittelkow",
         "Nina R. Schwarzbach",
-        "and Don van Ravenzwaaij"
+        "Don van Ravenzwaaij"
     ],
     "material_type": [
         "Reading"

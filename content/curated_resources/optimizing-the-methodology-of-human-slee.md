@@ -21,7 +21,8 @@
         "Rebecca M. C. Spencer",
         "Genevieve Albouy",
         "Teod\u00f3ra V\u00e9kony",
-        "Manuel Schabus & Karolina Janacsek"
+        "Manuel Schabus",
+        "Karolina Janacsek"
     ],
     "material_type": [
         "Reading"

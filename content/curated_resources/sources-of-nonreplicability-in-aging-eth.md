@@ -4,7 +4,7 @@
     "title": "Sources of nonreplicability in aging ethnoracial health disparities research",
     "link_to_resource": "https://doi.org/10.1037/pag0000606",
     "creators": [
-        "Ian M.McDonough",
+        "Ian M. McDonough",
         "Erin R. Harrell",
         "Sheila R. Black",
         "Rebecca S. Allen",

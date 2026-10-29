@@ -4,8 +4,8 @@
     "title": "Reproducibility and Research Integrity - Sixth Report of Session 2022-23",
     "link_to_resource": "https://publications.parliament.uk/pa/cm5803/cmselect/cmsctech/101/report.html#",
     "creators": [
-        "House of Commons Science",
-        "Innocation and Technology Committee: Greg Clark",
+        "House of Commons Science Innovation and Technology Committee",
+        "Greg Clark",
         "Aaron Bell",
         "Dawn Butler",
         "Chris Clarkson",

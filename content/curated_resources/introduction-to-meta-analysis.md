@@ -4,14 +4,10 @@
     "title": "Introduction to Meta-Analysis",
     "link_to_resource": "https://doi.org/10.1002/9780470743386",
     "creators": [
-        "Borenstein",
-        "M.",
-        "Hedges",
-        "L.V.",
-        "Higgins",
-        "J. P. T.",
-        "& Rothstein",
-        "H. R. (2009)."
+        "M. Borenstein",
+        "L. V. Hedges",
+        "J. P. T. Higgins",
+        "H. R. Rothstein"
     ],
     "material_type": [
         "Reading"

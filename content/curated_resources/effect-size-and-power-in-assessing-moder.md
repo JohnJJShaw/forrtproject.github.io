@@ -6,7 +6,8 @@
     "creators": [
         "Herman Aguinis",
         "James C Beaty",
-        "Robert J Boik and Charles A Pierce"
+        "Robert J Boik",
+        "Charles A Pierce"
     ],
     "material_type": [
         "Primary Source",

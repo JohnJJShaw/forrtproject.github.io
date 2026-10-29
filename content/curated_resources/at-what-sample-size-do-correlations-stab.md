@@ -4,7 +4,8 @@
     "title": "At what sample size do correlations stabilize? ",
     "link_to_resource": "https://doi.org/10.1016/j.jrp.2013.05.009",
     "creators": [
-        "Felix D. Schonbrodt and Marco Perugini"
+        "Felix D. Schonbrodt",
+        "Marco Perugini"
     ],
     "material_type": [
         "Primary Source",

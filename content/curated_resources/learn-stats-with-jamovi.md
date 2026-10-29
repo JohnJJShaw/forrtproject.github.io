@@ -4,7 +4,8 @@
     "title": "Learn Stats with Jamovi",
     "link_to_resource": "https://www.learnstatswithjamovi.com/",
     "creators": [
-        "Danielle Navarro and David R Foxcraft"
+        "Danielle Navarro",
+        "David R Foxcraft"
     ],
     "material_type": [
         "Data Set",

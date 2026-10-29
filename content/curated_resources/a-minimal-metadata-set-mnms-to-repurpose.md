@@ -12,7 +12,8 @@
         "Fabrizio Scorrano",
         "Michael Tsoory",
         "Eoin C. O\u2019Connor",
-        "Stefano Gaburro & Alexandra Bannach-Brown"
+        "Stefano Gaburro",
+        "Alexandra Bannach-Brown"
     ],
     "material_type": [
         "Reading"

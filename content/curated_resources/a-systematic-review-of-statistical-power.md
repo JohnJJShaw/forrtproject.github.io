@@ -4,12 +4,9 @@
     "title": "A systematic review of statistical power in software engineering experiments. ",
     "link_to_resource": "https://doi.org/10.1016/j.infsof.2005.08.009",
     "creators": [
-        "Dyb\u00e5",
-        "T.",
-        "Kampenes",
-        "V. B.",
-        "& Sj\u00f8berg",
-        "D. I."
+        "T. Dyb\u00e5",
+        "V. B. Kampenes",
+        "D. I. Sj\u00f8berg"
     ],
     "material_type": [
         "Primary Source",

@@ -4,12 +4,9 @@
     "title": "Adjusting for Publication Bias in MetaAnalysis. Perspectives on Psychological Science, 11(5), 730\u2013749. ",
     "link_to_resource": "http://doi.org/10.1177/1745691616662243",
     "creators": [
-        "McShane",
-        "B. B.",
-        "B\u00f6ckenholt",
-        "U.",
-        "& Hansen",
-        "K. T"
+        "B. B. McShane",
+        "U. B\u00f6ckenholt",
+        "K. T. Hansen"
     ],
     "material_type": [
         "Primary Source",

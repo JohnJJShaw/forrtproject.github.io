@@ -6,7 +6,7 @@
     "creators": [
         "Marco Perugini",
         "Marcello Gallucci",
-        "and Giulio Costantini"
+        "Giulio Costantini"
     ],
     "material_type": [
         "Primary Source",

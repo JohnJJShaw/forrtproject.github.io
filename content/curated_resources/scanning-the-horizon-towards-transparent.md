@@ -12,7 +12,8 @@
         "Marcus R. Munaf\u00f2",
         "Thomas E. Nichols",
         "Jean-Baptiste Poline",
-        "Edward Vul & Tal Yarkoni"
+        "Edward Vul",
+        "Tal Yarkoni"
     ],
     "material_type": [
         "Primary Source",

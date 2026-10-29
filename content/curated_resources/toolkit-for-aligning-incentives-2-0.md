@@ -9,7 +9,7 @@
         "Erin McKiernan",
         "Greg Tananbaum",
         "Zac Parker",
-        "and Carolina Garcia"
+        "Carolina Garcia"
     ],
     "material_type": [
         "Reading"

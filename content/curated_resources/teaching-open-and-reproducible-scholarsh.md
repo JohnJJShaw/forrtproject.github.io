@@ -73,7 +73,8 @@
         "Bethan J. Iley",
         "Samuel Guay",
         "Martina Sladekova",
-        "Shanu Sadhwani and FORRT"
+        "Shanu Sadhwani",
+        "FORRT"
     ],
     "material_type": [
         "Reading"

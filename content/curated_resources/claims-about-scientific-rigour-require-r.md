@@ -4,7 +4,8 @@
     "title": "Claims about scientific rigour require rigour",
     "link_to_resource": "https://doi.org/10.1038/s41562-024-01982-w",
     "creators": [
-        "Joseph Bak-Coleman & Berna Devezer"
+        "Joseph Bak-Coleman",
+        "Berna Devezer"
     ],
     "material_type": [
         "Reading"

@@ -4,7 +4,8 @@
     "title": "Methods for Reliable, Transparent, and Open Science",
     "link_to_resource": "https://github.com/rouderj/transparent-science-course",
     "creators": [
-        "Jeffrey Rouder and Joachim Vandekerckhove"
+        "Jeffrey Rouder",
+        "Joachim Vandekerckhove"
     ],
     "material_type": [
         "Syllabus"

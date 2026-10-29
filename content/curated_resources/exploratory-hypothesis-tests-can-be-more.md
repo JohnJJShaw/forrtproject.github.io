@@ -23,25 +23,15 @@
     "conditions_of_use": "CC BY-NC-ND",
     "primary_user": [
         "Student",
-        "Parent",
-        "Librarian"
+        "Librarian",
+        "Teacher"
     ],
     "subject_areas": [
-        "Applied Science",
-        "Arts and Humanities",
-        "Business and Communication",
-        "Career and Technical Education",
-        "Education",
-        "English Language Arts",
-        "History",
-        "Law",
-        "Life Science",
-        "Math & Statistics",
-        "Physical Science",
         "Social Science"
     ],
     "FORRT_clusters": [
-        "Preregistration"
+        "Preregistration",
+        "Conceptual and Statistical Knowledge"
     ],
     "tags": [
         "Accommodation",

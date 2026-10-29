@@ -4,12 +4,9 @@
     "title": "Best research practices in psychology: Illustrating epistemological and pragmatic considerations with the case of relationship science. ",
     "link_to_resource": "https://doi.org/10.1037/pspi0000007",
     "creators": [
-        "Finkel",
-        "E. J.",
-        "Eastwick",
-        "P. W.",
-        "& Reis",
-        "H. T."
+        "E. J. Finkel",
+        "P. W. Eastwick",
+        "H. T. Reis"
     ],
     "material_type": [
         "Primary Source",

@@ -8,7 +8,8 @@
         "Dora Matzke",
         "Quentin F. Gronau",
         "Maime Guan",
-        "Joachim Vandekerckhove and Eric-Jan Wagenmakers"
+        "Joachim Vandekerckhove",
+        "Eric-Jan Wagenmakers"
     ],
     "material_type": [
         "Primary Source",

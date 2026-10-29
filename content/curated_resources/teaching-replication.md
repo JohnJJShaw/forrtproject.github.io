@@ -4,7 +4,8 @@
     "title": "Teaching replication",
     "link_to_resource": "https://doi.org/10.1177/1745691612460686",
     "creators": [
-        "Michael C. Frank and Rebecca Saxe"
+        "Michael C. Frank",
+        "Rebecca Saxe"
     ],
     "material_type": [
         "Primary Source",

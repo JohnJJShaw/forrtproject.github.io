@@ -7,7 +7,8 @@
         "Valen E. Johnson",
         "Richard D. Payne",
         "Tianying Wang",
-        "Alex Asher &Soutrik Mandal"
+        "Alex Asher",
+        "Soutrik Mandal"
     ],
     "material_type": [
         "Primary Source",

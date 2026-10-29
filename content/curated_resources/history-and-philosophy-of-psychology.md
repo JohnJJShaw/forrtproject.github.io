@@ -4,7 +4,7 @@
     "title": "History and Philosophy of Psychology",
     "link_to_resource": "https://osf.io/73zyu/",
     "creators": [
-        "Professor E.Machery"
+        "E. Machery"
     ],
     "material_type": [
         "Syllabus"

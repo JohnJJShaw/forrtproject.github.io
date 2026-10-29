@@ -4,12 +4,9 @@
     "title": "Erroneous analyses of interactions in neuroscience: a problem of significance. ",
     "link_to_resource": "https://doi.org/10.1038/nn.2886",
     "creators": [
-        "Nieuwenhuis",
-        "S.",
-        "Forstmann",
-        "B. U.",
-        "& Wagenmakers",
-        "E. J."
+        "S. Nieuwenhuis",
+        "B. U. Forstmann",
+        "E. J. Wagenmakers"
     ],
     "material_type": [
         "Primary Source",

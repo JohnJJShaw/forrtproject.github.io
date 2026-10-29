@@ -4,7 +4,8 @@
     "title": "Easy preregistration will beneft any research",
     "link_to_resource": "https://doi.org/10.1038/s41562-018-0294-7",
     "creators": [
-        "David T. Mellor and Brian Nosek"
+        "David T. Mellor",
+        "Brian Nosek"
     ],
     "material_type": [
         "Primary Source",

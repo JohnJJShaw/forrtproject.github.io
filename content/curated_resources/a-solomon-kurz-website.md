@@ -4,7 +4,7 @@
     "title": "A. Solomon Kurz website",
     "link_to_resource": "https://solomonkurz.netlify.app/blog/",
     "creators": [
-        "A.Solomon Kurz"
+        "A. Solomon Kurz"
     ],
     "material_type": [
         "Reading"

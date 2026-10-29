@@ -6,7 +6,7 @@
     "creators": [
         "Robert T. Thibault",
         "Charlotte R. Pennington",
-        "and Marcus R. Munaf\u00f2"
+        "Marcus R. Munaf\u00f2"
     ],
     "material_type": [
         "Reading"

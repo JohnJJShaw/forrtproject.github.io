@@ -20,7 +20,7 @@
         "LUS24",
         "Maxim Belkin",
         "Miguel Gonz\u00e1lez",
-        "monialo2000",
+        "monialo",
         "Nicol\u00e1s Palopoli",
         "Nohemi Huanca Nunez",
         "Paula Andrea Martinez",

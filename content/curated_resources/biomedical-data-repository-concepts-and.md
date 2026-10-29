@@ -9,7 +9,8 @@
         "Kim D. Pruitt",
         "Anupama Gururaj",
         "Christine Melchior",
-        "Charles Schmitt & Susan N. Wright"
+        "Charles Schmitt",
+        "Susan N. Wright"
     ],
     "material_type": [
         "Reading"

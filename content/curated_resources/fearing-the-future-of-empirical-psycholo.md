@@ -4,10 +4,8 @@
     "title": "Fearing the future of empirical psychology: Bem\u2019s (2011) evidence of psi as a case study in deficiencies in modal research practice. ",
     "link_to_resource": "http://dx.doi.org/10.1037/a0025172",
     "creators": [
-        "LeBel",
-        "E.P.",
-        "& Peters",
-        "K.R."
+        "E. P. LeBel",
+        "K. R. Peters"
     ],
     "material_type": [
         "Primary Source",

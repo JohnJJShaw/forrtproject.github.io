@@ -5,7 +5,7 @@
     "link_to_resource": "https://osf.io/preprints/metaarxiv/9sz2y/",
     "creators": [
         "Jessica Elizabeth Kosie",
-        "john Ioannidis",
+        "John Ioannidis",
         "Joshua D Wallach",
         "Mallory Kidwell",
         "Robert T. Thibault",

@@ -4,14 +4,10 @@
     "title": "Instead of \u201cplaying the game\u201d it is time to change the rules: Registered Reports at AIMS Neuroscience and beyond. ",
     "link_to_resource": "https://doi.org/10.3934/Neuroscience.2014.1.4",
     "creators": [
-        "Chambers",
-        "C. D.",
-        "Feredoes",
-        "E.",
-        "Muthukumaraswamy",
-        "S. D.",
-        "& Etchells",
-        "P."
+        "C. D. Chambers",
+        "E. Feredoes",
+        "S. D. Muthukumaraswamy",
+        "P. Etchells"
     ],
     "material_type": [
         "Primary Source",

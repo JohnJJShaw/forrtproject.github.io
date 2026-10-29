@@ -7,7 +7,7 @@
         "Felix Holzmeister",
         "Magnus Johannesson",
         "Robert B\u00f6hm",
-        "and Michael Kirchler"
+        "Michael Kirchler"
     ],
     "material_type": [
         "Reading"

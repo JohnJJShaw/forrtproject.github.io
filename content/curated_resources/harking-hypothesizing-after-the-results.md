@@ -4,8 +4,7 @@
     "title": "HARKing: Hypothesizing after the results are known",
     "link_to_resource": "https://doi.org/10.1207/s15327957pspr0203_4",
     "creators": [
-        "Kerr",
-        "N. L."
+        "N. L. Kerr"
     ],
     "material_type": [
         "Primary Source",

@@ -13,7 +13,7 @@
         "Russell Poldrack",
         "Edward Bernat",
         "L. Robert Slevc",
-        "& Conor T. McLennan"
+        "Conor T. McLennan"
     ],
     "material_type": [
         "Case Study",

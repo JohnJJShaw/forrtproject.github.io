@@ -8,7 +8,7 @@
         "Vincent Traag",
         "Ioanna Grypari",
         "Lennart Stoy",
-        "and Tony Ross-Hellauer"
+        "Tony Ross-Hellauer"
     ],
     "material_type": [
         "Reading"

@@ -4,9 +4,8 @@
     "title": "Adopting Open Educational Resources as an Equity Strategy",
     "link_to_resource": "http://dx.doi.org/10.1097/01.NEP.0000000000001170",
     "creators": [
-        "Ernstmeyer",
-        "Kimberly E.; Christman",
-        "Elizabeth I."
+        "Kimberly E. Ernstmeyer",
+        "Elizabeth I. Christman"
     ],
     "material_type": [
         "Reading"

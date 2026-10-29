@@ -5,8 +5,8 @@
     "link_to_resource": "https://doi.org/10.31234/osf.io/rfkyu",
     "creators": [
         "M. Darda",
-        "ClareConry-Murray",
-        "Kathlee nSchmidt",
+        "Clare Conry-Murray",
+        "Kathleen Schmidt",
         "Mahmoud M. Elsherif",
         "Matthew Peverill",
         "Tomiko Yoneda",

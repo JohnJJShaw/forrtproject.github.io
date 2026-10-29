@@ -4,7 +4,8 @@
     "title": "The O3 guidelines: open data, open code, and open infrastructure for sustainable curated scientific resources\n",
     "link_to_resource": "https://doi.org/10.1038/s41597-024-03406-w",
     "creators": [
-        "Charles Tapley Hoyt & Benjamin M. Gyori"
+        "Charles Tapley Hoyt",
+        "Benjamin M. Gyori"
     ],
     "material_type": [
         "Reading"

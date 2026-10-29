@@ -4,12 +4,9 @@
     "title": "Sample-size planning for more accurate statistical power: A method adjusting sample effect sizes for publication bias and uncertainty. ",
     "link_to_resource": "http://doi.org/10.1177/0956797617723724",
     "creators": [
-        "Anderson",
-        "S. F.",
-        "Kelley",
-        "K.",
-        "& Maxwell",
-        "S. E."
+        "S. F. Anderson",
+        "K. Kelley",
+        "S. E. Maxwell"
     ],
     "material_type": [
         "Primary Source",

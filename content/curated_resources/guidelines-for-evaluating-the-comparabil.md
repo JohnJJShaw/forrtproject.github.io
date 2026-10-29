@@ -17,7 +17,8 @@
         "Sandra Sanchez-Roige",
         "K. Paige Harden",
         "Abraham A. Palmer",
-        "Danielle M. Dick & Richard Karlsson Linn\u00e9r"
+        "Danielle M. Dick",
+        "Richard Karlsson Linn\u00e9r"
     ],
     "material_type": [
         "Reading"

@@ -16,7 +16,7 @@
         "Linda L. Jahnke",
         "Sara Rojo",
         "Nathan Stone",
-        "and Mark Vorobets"
+        "Mark Vorobets"
     ],
     "material_type": [
         "Reading"

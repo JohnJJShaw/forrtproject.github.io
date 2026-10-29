@@ -6,7 +6,7 @@
     "creators": [
         "Annayah MB Prosser",
         "Ralph Bagnall",
-        "and Nina Higson-Sweeney"
+        "Nina Higson-Sweeney"
     ],
     "material_type": [
         "Reading"

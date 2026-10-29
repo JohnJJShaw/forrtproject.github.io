@@ -6,7 +6,7 @@
     "creators": [
         "Leif D. Nelson",
         "Joseph Simmons",
-        "and Uri Simonsohn"
+        "Uri Simonsohn"
     ],
     "material_type": [
         "Primary Source",

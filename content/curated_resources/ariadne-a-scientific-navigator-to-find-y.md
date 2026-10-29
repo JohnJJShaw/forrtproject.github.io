@@ -13,9 +13,7 @@
         "Yu-Fang Yang",
         "Gordon Feld",
         "Alexandros Kastrinogiannis",
-        "and Alina Koppold (all are members of IGOR",
-        "the Interest Group for Open and Reproducible Science of the German Psychological Association (DGPs)",
-        "section Biological Psychology and Neuropsychology)"
+        "Alina Koppold"
     ],
     "material_type": [
         "Data Set",

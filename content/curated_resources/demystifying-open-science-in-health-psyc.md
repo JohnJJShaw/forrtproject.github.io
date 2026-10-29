@@ -10,7 +10,7 @@
         "Tugce Varol",
         "James Green",
         "James Reynolds",
-        "and Elaine Toomey"
+        "Elaine Toomey"
     ],
     "material_type": [
         "Reading"

@@ -4,7 +4,8 @@
     "title": "The PaPOR TRaIL Course: Principles and Practices in Open Research: Teaching, Research, Impact and Learning",
     "link_to_resource": "https://forrt.org/educators-corner/009-papor-trail/",
     "creators": [
-        "Karen Matvienko-Sikar & Framework for Open and Reproducible Research Training (FORRT)"
+        "Karen Matvienko-Sikar",
+        "Framework for Open and Reproducible Research Training (FORRT)"
     ],
     "material_type": [
         "Full Course"

@@ -4,7 +4,8 @@
     "title": "The State of Play of Reproducibility in Statistics: An Empirical Analysis",
     "link_to_resource": "https://doi.org/10.1080/00031305.2022.2131625",
     "creators": [
-        "Xin Xiong & Ivor Cribben"
+        "Xin Xiong",
+        "Ivor Cribben"
     ],
     "material_type": [
         "Reading"

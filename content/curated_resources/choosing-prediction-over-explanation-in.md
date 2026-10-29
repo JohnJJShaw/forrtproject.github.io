@@ -4,10 +4,8 @@
     "title": "Choosing prediction over explanation in psychology: Lessons from machine learning.",
     "link_to_resource": "http://doi.org/10.1017/CBO9781107415324.004",
     "creators": [
-        "Yarkoni",
-        "T.",
-        "& Westfall",
-        "J."
+        "T. Yarkoni",
+        "J. Westfall"
     ],
     "material_type": [
         "Primary Source",

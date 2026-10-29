@@ -4,9 +4,8 @@
     "title": "Do studies of statistical power have an effect on the power of studies?",
     "link_to_resource": "https://doi.org/10.1037/0033-2909.105.2.309",
     "creators": [
-        "Sedlmeier",
-        "P. & Gigerenzer",
-        "G."
+        "P. Sedlmeier",
+        "G. Gigerenzer"
     ],
     "material_type": [
         "Primary Source",

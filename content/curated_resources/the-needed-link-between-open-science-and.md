@@ -8,7 +8,6 @@
         "Luz M. Cumba Garcia",
         "Laura A. Galvis",
         "Luisa F. Echeverr\u00eda-King",
-        "",
         "Branislav Pantovi\u0107",
         "Claudia Alarcn-Lpez",
         "Vernica Rossana Suarez",

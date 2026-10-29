@@ -6,7 +6,8 @@
     "creators": [
         "Ivan A. Hernandez",
         "Jessi L. Smith",
-        "Miguel T. Villodas & Dustin B. Thoman"
+        "Miguel T. Villodas",
+        "Dustin B. Thoman"
     ],
     "material_type": [
         "Reading"

@@ -4,9 +4,8 @@
     "title": "The GO FAIR Foundation's FAIR Capacity Building Programme",
     "link_to_resource": "https://osf.io/bthf8",
     "creators": [
-        "Schultes",
-        "Erik  \nMagagna",
-        "Barbara"
+        "Erik Schultes",
+        "Barbara Magagna"
     ],
     "material_type": [
         "Reading"

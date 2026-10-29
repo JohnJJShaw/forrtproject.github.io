@@ -6,7 +6,7 @@
     "creators": [
         "Annie Franco",
         "Neil Malhotra",
-        "and Gabor Simonovits"
+        "Gabor Simonovits"
     ],
     "material_type": [
         "Primary Source",

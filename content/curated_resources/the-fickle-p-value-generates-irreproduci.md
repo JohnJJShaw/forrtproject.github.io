@@ -6,7 +6,8 @@
     "creators": [
         "Lewis G Halsey",
         "Douglas Curran-Everett",
-        "Sarah L Vowler & Gordon B Drummond"
+        "Sarah L Vowler",
+        "Gordon B Drummond"
     ],
     "material_type": [
         "Primary Source",

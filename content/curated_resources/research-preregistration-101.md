@@ -4,12 +4,9 @@
     "title": "Research preregistration 101",
     "link_to_resource": "https://www.psychologicalscience.org/observer/research-preregistration-101",
     "creators": [
-        "Lindsay",
-        "D.S.",
-        "Simons",
-        "D.J.",
-        "Lilienfeld",
-        "S.O."
+        "D. S. Lindsay",
+        "D. J. Simons",
+        "S. O. Lilienfeld"
     ],
     "material_type": [
         "Blog"

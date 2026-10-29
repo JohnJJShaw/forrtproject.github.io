@@ -4,7 +4,7 @@
     "title": "Open and Reproducible Science Syllabus ",
     "link_to_resource": "https://osf.io/fuds5",
     "creators": [
-        "Dr. Lorne Campbell"
+        "Lorne Campbell"
     ],
     "material_type": [
         "Full Course",

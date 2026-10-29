@@ -42,7 +42,7 @@
         "Maxim Belkin",
         "Michael Beyeler",
         "Mike Henry",
-        "mzc9",
+        "mzc",
         "Narayanan Raghupathy",
         "Nigel Bosch",
         "Olav Vahtras",

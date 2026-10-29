@@ -4,8 +4,8 @@
     "title": "The meaning of \u201csignificance\u201d for different types of research",
     "link_to_resource": "https://doi.org/10.1016/j.actpsy.2014.02.001",
     "creators": [
-        "De Groot",
-        "A. D. translated and annotated by Eric-Jan Wagenmakers",
+        "A. D. De Groot",
+        "Eric-Jan Wagenmakers",
         "Denny Borsboom",
         "Josine Verhagen",
         "Rogier Kievit",
@@ -13,7 +13,7 @@
         "Angelique Cramer",
         "Dora Matzke",
         "Don Mellenbergh",
-        "and Han LJ van der Maas"
+        "Han LJ van der Maas"
     ],
     "material_type": [
         "Primary Source",

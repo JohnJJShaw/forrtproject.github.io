@@ -4,10 +4,9 @@
     "title": "Making Qualitative Data Reusable - A Short Guidebook For Researchers And Data Stewards Working With Qualitative Data",
     "link_to_resource": "https://doi.org/10.5281/zenodo.8160880",
     "creators": [
-        "Verburg",
-        "Maaike;  Braukmann",
-        "Ricarda;  Mahabier",
-        "Widia"
+        "Maaike Verburg",
+        "Ricarda Braukmann",
+        "Widia Mahabier"
     ],
     "material_type": [
         "Primary Source",

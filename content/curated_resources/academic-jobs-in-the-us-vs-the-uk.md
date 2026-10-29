@@ -4,7 +4,8 @@
     "title": "Academic Jobs in the US vs. the UK",
     "link_to_resource": "https://forrt.org/educators-corner/015-academic-jobs-us-vs-uk/",
     "creators": [
-        "Anna Meier & Framework for Open and Reproducible Research Training (FORRT)"
+        "Anna Meier",
+        "Framework for Open and Reproducible Research Training (FORRT)"
     ],
     "material_type": [
         "Reading"

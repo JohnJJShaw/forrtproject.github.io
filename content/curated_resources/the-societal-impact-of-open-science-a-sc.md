@@ -8,7 +8,7 @@
         "Eva Kormann",
         "Thomas Klebel",
         "Simon Apartis",
-        "and Tony Ross-Hellauer"
+        "Tony Ross-Hellauer"
     ],
     "material_type": [
         "Reading"

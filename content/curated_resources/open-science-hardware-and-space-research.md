@@ -4,14 +4,13 @@
     "title": "Open Science Hardware and Space Research",
     "link_to_resource": "https://doi.org/10.5281/zenodo.10054521",
     "creators": [
-        "Hsing",
-        "Pen-Yuan\nParker",
-        "Alison\nGoguichvili",
-        "Sophie\nJohns",
-        "Brianna\nHe",
-        "Richard\nMoudgalya",
-        "Pranav\nGunn",
-        "Allen"
+        "Pen-Yuan Hsing",
+        "Alison Parker",
+        "Sophie Goguichvili",
+        "Brianna Johns",
+        "Richard He",
+        "Pranav Moudgalya",
+        "Allen Gunn"
     ],
     "material_type": [
         "Reading"

@@ -6,7 +6,8 @@
     "creators": [
         "Solmaz Filiz Karabag",
         "Christian Berggren",
-        "Jolanta Pielaszkiewicz & Bengt Gerdin"
+        "Jolanta Pielaszkiewicz",
+        "Bengt Gerdin"
     ],
     "material_type": [
         "Reading"
@@ -26,10 +27,13 @@
     ],
     "subject_areas": [
         "Life Science",
-        "Social Science"
+        "Social Science",
+        "Business and Communication"
     ],
     "FORRT_clusters": [
-        "Reproducibility and Replicability Knowledge"
+        "Reproducibility and Replicability Knowledge",
+        "Reproducible Analyses",
+        "Academic Life and Culture"
     ],
     "tags": [
         "Questionable research practices",
@@ -39,8 +43,8 @@
         "Competition",
         "Ethics training"
     ],
-    "forrt_clusters_new": "Replication Crisis and Credibility Revolution",
-    "forrt_sub_clusters": "Questionable research practices & their prevalence",
+    "forrt_clusters_new": "Replication Crisis and Credibility Revolution, Academic Structures and Institutions",
+    "forrt_sub_clusters": "Questionable research practices & their prevalence, Structures and incentives in academia",
     "doi": "10.1007/s10805-024-09520-z",
     "in-clusters": false,
     "pdf name": "",

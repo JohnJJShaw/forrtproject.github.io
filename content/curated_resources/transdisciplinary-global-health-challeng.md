@@ -8,7 +8,8 @@
         "Jeroen Meulenbrugge",
         "Amber Mers",
         "Manon Gerber",
-        "Fleur Alards & Marjolein Zweekhorst"
+        "Fleur Alards",
+        "Marjolein Zweekhorst"
     ],
     "material_type": [
         "Module",

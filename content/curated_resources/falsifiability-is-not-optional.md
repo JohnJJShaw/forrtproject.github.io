@@ -4,14 +4,10 @@
     "title": "Falsifiability Is Not Optional",
     "link_to_resource": "https://doi.org/10.1037/pspi0000106",
     "creators": [
-        "LeBel",
-        "E. P.",
-        "Berger",
-        "D.",
-        "Campbell",
-        "L.",
-        "& Loving",
-        "T. J. (2017)."
+        "E. P. LeBel",
+        "D. Berger",
+        "L. Campbell",
+        "T. J. Loving"
     ],
     "material_type": [
         "Primary Source",

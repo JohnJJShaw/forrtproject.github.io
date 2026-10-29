@@ -4,7 +4,8 @@
     "title": "Interpreting effect sizes: Toward a quantitative cumulative social psychology",
     "link_to_resource": "https://doi.org/10.1002/ejsp.2019",
     "creators": [
-        "ARTHUR A. STUKAS AND GEOFF CUMMING"
+        "Arthur A. Stukas",
+        "Geoff Cumming"
     ],
     "material_type": [
         "Primary Source",

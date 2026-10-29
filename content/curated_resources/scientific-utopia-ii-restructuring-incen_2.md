@@ -4,12 +4,9 @@
     "title": "Scientific Utopia II. Restructuring incentives and practices to promote truth over publishability.",
     "link_to_resource": "https://doi.org/10.1177/1745691612459058",
     "creators": [
-        "Nosek",
-        "B. A.",
-        "Spies",
-        "J. R.",
-        "& Motyl",
-        "M."
+        "B. A. Nosek",
+        "J. R. Spies",
+        "M. Motyl"
     ],
     "material_type": [
         "Primary Source",

@@ -7,7 +7,7 @@
         "Ignasi Labastida i Juan",
         "Iva Melin\u0161\u010dak Zlodi",
         "Vanessa Proudman",
-        "& Jon Treadway"
+        "Jon Treadway"
     ],
     "material_type": [
         "Reading"

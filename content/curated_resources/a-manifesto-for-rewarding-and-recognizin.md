@@ -12,7 +12,7 @@
         "Esther Plomp",
         "Antonio Schettino",
         "Samantha Teplitzky",
-        "and Hao Ye"
+        "Hao Ye"
     ],
     "material_type": [
         "Reading"

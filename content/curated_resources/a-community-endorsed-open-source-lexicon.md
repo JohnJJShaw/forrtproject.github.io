@@ -19,7 +19,7 @@
         "Michael J. Thrippleton",
         "Chad Quarles",
         "Ina N. Kompan",
-        "on behalf of The Perfusion Study Group of the ISMRM"
+        "Perfusion Study Group of the ISMRM"
     ],
     "material_type": [
         "Reading"

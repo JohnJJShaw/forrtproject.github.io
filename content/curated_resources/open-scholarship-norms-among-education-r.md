@@ -21,7 +21,7 @@
         "Courtney K. Soderberg",
         "Andrew Tyner",
         "Huajin Wang",
-        "and Gizem Solmaz-Ratzlaff"
+        "Gizem Solmaz-Ratzlaff"
     ],
     "material_type": [
         "Reading"

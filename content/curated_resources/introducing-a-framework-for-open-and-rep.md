@@ -32,7 +32,7 @@
         "Nihan Albayrak-Aydemir",
         "Samuel J Westwood",
         "Helena Hartmann",
-        "and FORRT"
+        "FORRT"
     ],
     "material_type": [
         "Reading"

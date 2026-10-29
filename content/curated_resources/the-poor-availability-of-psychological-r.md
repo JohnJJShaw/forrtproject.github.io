@@ -4,14 +4,10 @@
     "title": "The poor availability of psychological research data for reanalysis.",
     "link_to_resource": "https://doi.org/10.1037/0003-066X.61.7.726",
     "creators": [
-        "Wicherts",
-        "Jelte M.",
-        "Borsboom",
-        "Denny",
-        "Kats",
-        "Judith",
-        "Molenaar",
-        "Dylan"
+        "Jelte M. Wicherts",
+        "Denny Borsboom",
+        "Judith Kats",
+        "Dylan Molenaar"
     ],
     "material_type": [
         "Primary Source",

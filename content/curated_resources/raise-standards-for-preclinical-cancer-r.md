@@ -4,7 +4,8 @@
     "title": "Raise standards for preclinical cancer research",
     "link_to_resource": "https://doi.org/10.1038/483531a",
     "creators": [
-        "C. Glenn Begley and Lee M. Ellis"
+        "C. Glenn Begley",
+        "Lee M. Ellis"
     ],
     "material_type": [
         "Primary Source",

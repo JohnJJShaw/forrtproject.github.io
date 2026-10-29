@@ -4,16 +4,8 @@
     "title": "Practical Considerations for Navigating Registered Reports",
     "link_to_resource": "https://www.cell.com/trends/neurosciences/fulltext/S0166-2236(19)30124-9",
     "creators": [
-        "Albers C",
-        "Button K S",
-        "Chambers C D",
-        "Helen Wills Neuroscience Institute University Of California Berkeley Ca Usa",
-        "Jason M",
-        "Jscimeca Berkeley Edu",
-        "Kiyonaga Berkeley Edu",
-        "Lakens D",
-        "Nosek B A",
-        "Poldrack R A"
+        "Anastasia Kiyonaga",
+        "Jason M. Scimeca"
     ],
     "material_type": [
         "Reading"

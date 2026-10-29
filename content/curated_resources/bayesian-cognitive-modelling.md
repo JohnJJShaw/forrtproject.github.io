@@ -4,7 +4,8 @@
     "title": "Bayesian Cognitive Modelling",
     "link_to_resource": "https://bayesmodels.com/",
     "creators": [
-        "Michael Lee and Eric-Jan Wagenmakers"
+        "Michael Lee",
+        "Eric-Jan Wagenmakers"
     ],
     "material_type": [
         "Reading"

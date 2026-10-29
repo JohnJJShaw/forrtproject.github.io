@@ -8,7 +8,8 @@
         "Dan Correa",
         "Jordan Dworkin",
         "Paul Niehaus",
-        "Caleb Watney & Heidi Williams"
+        "Caleb Watney",
+        "Heidi Williams"
     ],
     "material_type": [
         "Primary Source",

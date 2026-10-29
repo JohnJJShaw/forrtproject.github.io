@@ -4,8 +4,7 @@
     "title": "What is the Replication Crisis a Crisis Of?",
     "link_to_resource": "https://doi.org/10.1017/psa.2024.2",
     "creators": [
-        "Feest",
-        "U."
+        "U. Feest"
     ],
     "material_type": [
         "Reading"

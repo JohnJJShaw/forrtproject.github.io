@@ -5,7 +5,8 @@
     "link_to_resource": "https://psyarxiv.com/7wkdn/",
     "creators": [
         "David Mellor",
-        "Simine Vazire and D. Lindsay"
+        "Simine Vazire",
+        "D. Lindsay"
     ],
     "material_type": [
         "Primary Source",

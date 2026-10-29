@@ -6,7 +6,7 @@
     "creators": [
         "Rick O. Gilmore",
         "Joy Lorenzo Kennedy",
-        "and Karen E. Adolph"
+        "Karen E. Adolph"
     ],
     "material_type": [
         "Primary Source",

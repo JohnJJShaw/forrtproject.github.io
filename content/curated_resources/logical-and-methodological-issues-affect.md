@@ -4,8 +4,7 @@
     "title": "Logical and methodological issues affecting genetic studies of humans reported in top neuroscience journals. ",
     "link_to_resource": "https://doi.org/10.1162/jocn_a_01192",
     "creators": [
-        "Grabitz",
-        "C.R. et al."
+        "C. R. Grabitz et al."
     ],
     "material_type": [
         "Primary Source",

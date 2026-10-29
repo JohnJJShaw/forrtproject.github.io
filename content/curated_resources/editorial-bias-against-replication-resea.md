@@ -4,8 +4,8 @@
     "title": "Editorial Bias Against Replication Research",
     "link_to_resource": "https://search.proquest.com/docview/1292299467?pq-origsite=gscholar&imgSeq=1",
     "creators": [
-        "Neuliep",
-        "James W. and Rick Crandall"
+        "James W. Neuliep",
+        "Rick Crandall"
     ],
     "material_type": [
         "Primary Source",

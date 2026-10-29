@@ -30,11 +30,13 @@
         "Life Science"
     ],
     "FORRT_clusters": [
-        "Preregistration"
+        "Preregistration",
+        "Reproducibility and Replicability Knowledge"
     ],
     "tags": [
         "Ecology",
-        "Registration"
+        "Registration",
+        "Preregistration"
     ],
     "forrt_clusters_new": "Pre-analysis Planning",
     "forrt_sub_clusters": "Registered reports, Preregistration",

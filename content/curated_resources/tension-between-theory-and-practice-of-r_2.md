@@ -1,10 +1,11 @@
 {
-    "exclude": "",
+    "exclude": true,
     "timestamp": "2/27/2025 5:34:04",
     "title": "Tension Between Theory and Practice of Replication",
     "link_to_resource": "https://doi.org/10.36850/mr9",
     "creators": [
-        "Erkan O. Buzbas and Berna Devezer"
+        "Erkan O. Buzbas",
+        "Berna Devezer"
     ],
     "material_type": [
         "Reading"

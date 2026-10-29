@@ -7,7 +7,7 @@
         "Erin McKiernan",
         "Caitlin Carter",
         "Michael R Dougherty",
-        "and Greg Tananbaum"
+        "Greg Tananbaum"
     ],
     "material_type": [
         "Asssessment"

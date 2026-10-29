@@ -6,7 +6,7 @@
     "creators": [
         "Gerd Gigerenzer",
         "Stefan Krauss",
-        "and Oliver Vitouch"
+        "Oliver Vitouch"
     ],
     "material_type": [
         "Primary Source",

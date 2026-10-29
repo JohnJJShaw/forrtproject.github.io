@@ -4,7 +4,8 @@
     "title": "Ten Strategies to Foster Open Science in Psychology and Beyond",
     "link_to_resource": "https://doi.org/10.1525/collabra.57545",
     "creators": [
-        "Nicol\u00e1s Alessandroni & Krista Byers-Heinlein"
+        "Nicol\u00e1s Alessandroni",
+        "Krista Byers-Heinlein"
     ],
     "material_type": [
         "Reading"
@@ -27,7 +28,10 @@
     ],
     "FORRT_clusters": [
         "Reproducibility and Replicability Knowledge",
-        "Academic Life and Culture"
+        "Academic Life and Culture",
+        "Reproducible Analyses",
+        "Preregistration",
+        "Open Data and Materials"
     ],
     "tags": [
         "Open Science",

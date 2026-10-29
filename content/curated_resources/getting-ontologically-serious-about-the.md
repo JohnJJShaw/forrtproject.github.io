@@ -4,8 +4,7 @@
     "title": "Getting ontologically serious about the replication crisis in psychology.",
     "link_to_resource": "https://doi.org/10.1037/teo0000281",
     "creators": [
-        "Burgos",
-        "J. E."
+        "J. E. Burgos"
     ],
     "material_type": [
         "Reading"

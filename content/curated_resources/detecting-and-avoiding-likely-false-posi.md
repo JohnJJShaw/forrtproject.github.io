@@ -5,7 +5,8 @@
     "link_to_resource": "https://doi.org/10.1111/brv.12315",
     "creators": [
         "Wolfgang Forstmeier",
-        "Eric-Jan Wagenmakers and Timothy H. Parker"
+        "Eric-Jan Wagenmakers",
+        "Timothy H. Parker"
     ],
     "material_type": [
         "Primary Source",

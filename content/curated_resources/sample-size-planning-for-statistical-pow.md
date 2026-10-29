@@ -5,7 +5,8 @@
     "link_to_resource": "https://doi.org/10.1146/annurev.psych.59.103006.093735",
     "creators": [
         "Scott E. Maxwell",
-        "Ken Kelley and Joseph R. Rausch"
+        "Ken Kelley",
+        "Joseph R. Rausch"
     ],
     "material_type": [
         "Primary Source",

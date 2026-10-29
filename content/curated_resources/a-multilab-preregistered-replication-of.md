@@ -4,20 +4,13 @@
     "title": "A multilab preregistered replication of the ego-depletion effect.",
     "link_to_resource": "https://doi.org/10.1177/1745691616652873",
     "creators": [
-        "Hagger",
-        "M. S.",
-        "Chatzisarantis",
-        "N. L.",
-        "Alberts",
-        "H.",
-        "Anggono",
-        "C. O.",
-        "Batailler",
-        "C.",
-        "Birt",
-        "A. R.",
-        "... & Calvillo",
-        "D. P."
+        "M. S. Hagger",
+        "N. L. Chatzisarantis",
+        "H. Alberts",
+        "C. O. Anggono",
+        "C. Batailler",
+        "A. R. Birt",
+        "D. P. Calvillo et al."
     ],
     "material_type": [
         "Primary Source",

@@ -140,7 +140,7 @@
         "Rafi Ullah",
         "Raniere Silva",
         "R\u00e9mi Emonet",
-        "reshama shaikh",
+        "Reshama Shaikh",
         "Robert A Beagrie",
         "Ruud Steltenpool",
         "Ry4an Brase",

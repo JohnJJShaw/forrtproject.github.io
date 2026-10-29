@@ -4,9 +4,9 @@
     "title": "Methodological Advances in Behavioral Research: Crowdsourcing Science",
     "link_to_resource": "https://osf.io/78s5c/",
     "creators": [
-        "artin Schweinsberg",
+        "Martin Schweinsberg",
         "Neil Bearden",
-        "& Eric Luis Uhlmann",
+        "Eric Luis Uhlmann",
         "INSEAD"
     ],
     "material_type": [

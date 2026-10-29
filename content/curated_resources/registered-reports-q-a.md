@@ -5,7 +5,7 @@
     "link_to_resource": "https://www.youtube.com/watch?v=NjPJRxADP1U",
     "creators": [
         "Chris Chambers",
-        "david mellor"
+        "David Mellor"
     ],
     "material_type": [
         "Lesson"

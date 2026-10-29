@@ -4,7 +4,8 @@
     "title": "Elsevier Title Level Pricing: Dissecting the Bowl of Spaghetti",
     "link_to_resource": "https://doi.org/10.7710/2162-3309.2410",
     "creators": [
-        "Joel B. Thornton and Curtis Brundy"
+        "Joel B. Thornton",
+        "Curtis Brundy"
     ],
     "material_type": [
         "Reading"

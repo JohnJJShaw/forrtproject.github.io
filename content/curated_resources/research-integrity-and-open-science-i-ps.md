@@ -4,9 +4,9 @@
     "title": "Research Integrity and Open Science I (PSYC123)",
     "link_to_resource": "https://osf.io/km34v/wiki/PSYC123-Research%20Integrity%20and%20Open%20Science%201/",
     "creators": [
-        "Dr. Sally Linkenauger",
-        "Dr. Neil McLatchie",
-        "and Dr. Dermot Lynott"
+        "Sally Linkenauger",
+        "Neil McLatchie",
+        "Dermot Lynott"
     ],
     "material_type": [
         "Activity/Lab",

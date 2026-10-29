@@ -4,7 +4,7 @@
     "title": "CREP tutorials",
     "link_to_resource": "https://www.youtube.com/playlist?list=PLECcejm-vUj-kOyCGXxN2TeAFTRFj1HU1",
     "creators": [
-        "Dr Jordan Wagge"
+        "Jordan Wagge"
     ],
     "material_type": [
         "Videos"

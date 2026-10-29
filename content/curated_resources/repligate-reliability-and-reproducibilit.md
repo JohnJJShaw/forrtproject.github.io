@@ -29,7 +29,6 @@
         "Joseph Hilgard",
         "Jennifer Howell",
         "Mich\u00e8le B. Nuijten",
-        "",
         "Rodica I. Damian",
         "Sean Mackinnon",
         "Henrik Danielsson",
@@ -57,7 +56,7 @@
         "Daniel Umpierre",
         "Krista Byers-Heinlein",
         "Melanie Soderstrom",
-        "and Nate Breznau"
+        "Nate Breznau"
     ],
     "material_type": [
         "Syllabus"

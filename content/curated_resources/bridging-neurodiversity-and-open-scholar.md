@@ -18,7 +18,7 @@
         "John J Shaw",
         "Helena Hartmann",
         "Maria Cairney",
-        "and FORRT"
+        "FORRT"
     ],
     "material_type": [
         "Reading"

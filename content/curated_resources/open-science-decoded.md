@@ -4,10 +4,8 @@
     "title": "Open science decoded",
     "link_to_resource": "https://doi.org/10.1038/nphys3313",
     "creators": [
-        "Hey",
-        "T.",
-        "Payne",
-        "M."
+        "T. Hey",
+        "M. Payne"
     ],
     "material_type": [
         "Reading"

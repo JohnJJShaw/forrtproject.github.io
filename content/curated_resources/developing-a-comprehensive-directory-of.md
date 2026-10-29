@@ -4,7 +4,8 @@
     "title": "Developing a comprehensive directory of tools and technologies for social science research methods",
     "link_to_resource": "https://forrt.org/educators-corner/003-developing-tools/",
     "creators": [
-        "Daniela Duca & Framework for Open and Reproducible Research Training (FORRT)"
+        "Daniela Duca",
+        "Framework for Open and Reproducible Research Training (FORRT)"
     ],
     "material_type": [
         "Reading",

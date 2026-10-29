@@ -4,7 +4,8 @@
     "title": "Research and data lessons from a non-academic job",
     "link_to_resource": "https://forrt.org/educators-corner/012-lessons-from-non-academic-jobs/",
     "creators": [
-        "Karolina Urbanska & Framework for Open and Reproducible Research Training (FORRT)"
+        "Karolina Urbanska",
+        "Framework for Open and Reproducible Research Training (FORRT)"
     ],
     "material_type": [
         "Reading",

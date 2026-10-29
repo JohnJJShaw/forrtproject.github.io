@@ -4,7 +4,8 @@
     "title": "Tension Between Theory and Practice of Replication",
     "link_to_resource": "https://doi.org/10.36850/mr9",
     "creators": [
-        "Erkan O. Buzbas and Berna Devezer"
+        "Erkan O. Buzbas",
+        "Berna Devezer"
     ],
     "material_type": [
         "Reading"
@@ -37,10 +38,10 @@
         "Reproducibility",
         "Meta-Hypothesis",
         "Multi-site Replications",
-        "Sceintific Reform"
+        "Scientific Reform"
     ],
-    "forrt_clusters_new": "Replication and meta-research",
-    "forrt_sub_clusters": "Meta-research, Conducting replication studies; challenges, limitations, and comparisons with the original study",
+    "forrt_clusters_new": "Replication and meta-research, Replication Crisis and Credibility Revolution",
+    "forrt_sub_clusters": "Meta-research, Conducting replication studies; challenges, limitations, and comparisons with the original study, Ongoing debates (e.g., incentives for and against open science practices), Collection of large scale replications",
     "doi": "10.36850/mr9",
     "in-clusters": true,
     "pdf name": "",

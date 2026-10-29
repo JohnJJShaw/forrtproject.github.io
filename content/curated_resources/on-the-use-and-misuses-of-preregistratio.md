@@ -7,7 +7,7 @@
         "Colin Vize",
         "Donald Lynam",
         "Josh Miller",
-        "and Nathaniel Phillips"
+        "Nathaniel Phillips"
     ],
     "material_type": [
         "Reading"

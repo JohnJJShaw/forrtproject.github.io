@@ -4,12 +4,9 @@
     "title": "P-curve: A key to the file-drawer.",
     "link_to_resource": "https://doi.org/10.1037/a0033242",
     "creators": [
-        "Simonsohn",
-        "Uri",
-        "Nelson",
-        "Leif D.",
-        "Simmons",
-        "Joseph P."
+        "Uri Simonsohn",
+        "Leif D. Nelson",
+        "Joseph P. Simmons"
     ],
     "material_type": [
         "Primary Source",

@@ -4,7 +4,9 @@
     "title": "Enhancing transparency of the research process to increase accuracy of findings: A guide for relationship researchers",
     "link_to_resource": "https://doi.org/10.1111/pere.12053",
     "creators": [
-        "LORNE CAMPBELL TIMOTHY J. LOVING ETIENNE P. LEBEL"
+        "Lorne Campbell",
+        "Timothy J. Loving",
+        "Etienne P. LeBel"
     ],
     "material_type": [
         "Primary Source",

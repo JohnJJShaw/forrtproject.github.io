@@ -11,7 +11,7 @@
         "Joyce Kao",
         "Harini Lakshminarayanan",
         "Franz P\u00f6schel",
-        "and Heidi Seibold"
+        "Heidi Seibold"
     ],
     "material_type": [
         "Full Course"

@@ -8,7 +8,8 @@
         "Max Korbmacher",
         "Thomas Rhys Evans",
         "Flavio Azevedo",
-        "Charlotte R. Pennington and FORRT"
+        "Charlotte R. Pennington",
+        "FORRT"
     ],
     "material_type": [
         "Reading"

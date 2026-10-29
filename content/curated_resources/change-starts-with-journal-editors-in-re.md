@@ -4,7 +4,8 @@
     "title": "Change starts with journal editors: In response to Makel (2014).",
     "link_to_resource": "https://doi.org/10.1037/a0035801",
     "creators": [
-        "Matthew T. McBee and Michael S. Matthews"
+        "Matthew T. McBee",
+        "Michael S. Matthews"
     ],
     "material_type": [
         "Primary Source",

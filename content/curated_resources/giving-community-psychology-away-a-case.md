@@ -6,7 +6,7 @@
     "creators": [
         "Crystal N. Steltenpohl",
         "Amy J. Anderson",
-        "and Katherine M. Daniels"
+        "Katherine M. Daniels"
     ],
     "material_type": [
         "Primary Source",

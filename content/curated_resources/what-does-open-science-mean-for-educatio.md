@@ -31,7 +31,7 @@
         "Benjamin Kaveladze",
         "Flavio Azevedo",
         "Candice Odgers",
-        "and Amy Orben"
+        "Amy Orben"
     ],
     "material_type": [
         "Reading"

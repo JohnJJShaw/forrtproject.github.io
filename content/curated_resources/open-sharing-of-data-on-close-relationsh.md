@@ -4,12 +4,9 @@
     "title": "Open sharing of data on close relationships and other sensitive social psychological topics: Challenges, tools, and future directions",
     "link_to_resource": "https://doi.org/10.1177/2515245917744281",
     "creators": [
-        "Joel",
-        "S.",
-        "Eastwick",
-        "P.",
-        "& Finkel",
-        "E."
+        "S. Joel",
+        "P. Eastwick",
+        "E. Finkel"
     ],
     "material_type": [
         "Primary Source",

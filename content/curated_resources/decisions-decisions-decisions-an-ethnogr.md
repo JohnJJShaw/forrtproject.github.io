@@ -7,7 +7,8 @@
         "Tom van Drimmelen",
         "M. Nienke Slagboom",
         "Ria Reis",
-        "Lex M. Bouter & Jenny T. van der Steen"
+        "Lex M. Bouter",
+        "Jenny T. van der Steen"
     ],
     "material_type": [
         "Reading"

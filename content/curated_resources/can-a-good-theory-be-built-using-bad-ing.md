@@ -6,7 +6,8 @@
     "creators": [
         "Sarahanne M. Field",
         "Leonhard Volz",
-        "Artem Kaznatcheev & Noah van Dongen"
+        "Artem Kaznatcheev",
+        "Noah van Dongen"
     ],
     "material_type": [
         "Reading"

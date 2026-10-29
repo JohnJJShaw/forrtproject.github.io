@@ -9,7 +9,8 @@
         "Rory Coyne",
         "Tugce Varol",
         "James A. Green",
-        "James Reynolds and Elaine Toomey"
+        "James Reynolds",
+        "Elaine Toomey"
     ],
     "material_type": [
         "Reading"

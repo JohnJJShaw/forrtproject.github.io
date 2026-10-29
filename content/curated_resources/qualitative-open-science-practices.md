@@ -4,7 +4,8 @@
     "title": "Qualitative Open Science Practices",
     "link_to_resource": "https://forrt.org/educators-corner/006-qualitative-os-practices/",
     "creators": [
-        "Rachel Renbarger & Framework for Open and Reproducible Research Training (FORRT)"
+        "Rachel Renbarger",
+        "Framework for Open and Reproducible Research Training (FORRT)"
     ],
     "material_type": [
         "Reading"
