@@ -7,7 +7,7 @@
         "Sharon Klinkenberg"
     ],
     "material_type": [
-        "Asssessment"
+        "Assessment"
     ],
     "education_level": [
         "College / Upper Division (Undergraduates)",

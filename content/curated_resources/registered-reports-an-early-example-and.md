@@ -32,7 +32,7 @@
     ],
     "tags": [
         "Data",
-        "Preregistation",
+        "Preregistration",
         "Publishing",
         "Registered Reports"
     ],

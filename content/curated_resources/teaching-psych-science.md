@@ -10,7 +10,7 @@
     ],
     "material_type": [
         "Activity/Lab",
-        "Asssessment"
+        "Assessment"
     ],
     "education_level": [
         "College / Upper Division (Undergraduates)"

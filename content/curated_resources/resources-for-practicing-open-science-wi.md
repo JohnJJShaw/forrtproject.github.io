@@ -39,7 +39,7 @@
         "Methodology",
         "Open Science",
         "Open Science Training",
-        "Posititionality",
+        "Positionality",
         "Qualitative",
         "Research",
         "Transparency"

@@ -35,7 +35,7 @@
         "Materials",
         "Open Scholarship Tools and Technologies",
         "OSF",
-        "Preregistation",
+        "Preregistration",
         "Publishing",
         "Reproducibility",
         "Research Data Management Tools",

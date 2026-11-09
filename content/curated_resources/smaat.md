@@ -7,7 +7,7 @@
         "Open Lab Online UG"
     ],
     "material_type": [
-        "Asssessment",
+        "Assessment",
         "Full Course",
         "Game",
         "Homework/Assignment",

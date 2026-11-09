@@ -4,7 +4,7 @@
     "title": "Expectations for Replications: Are Yours Realistic?",
     "link_to_resource": "https://doi.org/10.1177/1745691614528518",
     "creators": [
-        "David J Stanley 1",
+        "David J Stanley",
         "Jeffrey R Spence"
     ],
     "material_type": [

@@ -8,7 +8,7 @@
     ],
     "material_type": [
         "Activity/Lab",
-        "Asssessment",
+        "Assessment",
         "Interactive"
     ],
     "education_level": [
