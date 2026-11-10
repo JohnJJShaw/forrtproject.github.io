@@ -13,7 +13,7 @@
     "education_level": [
         "College / Upper Division (Undergraduates)",
         "Graduate / Professional",
-        "Career /Technical",
+        "Career / Technical",
         "Adult Education"
     ],
     "abstract": "Peer review is considered by many to be a fundamental component of scientific publishing. In this context, open peer review (OPR) has gained popularity in recent years as a tool to increase transparency, rigor, and inclusivity in research. But how does OPR really affect the review process? How does OPR impact specific groups, such as early career researchers? This editorial explores and discusses these aspects as well as some suggested actions for journals.",

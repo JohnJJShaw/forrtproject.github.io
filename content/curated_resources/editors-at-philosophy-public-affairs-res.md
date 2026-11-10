@@ -12,7 +12,7 @@
     "education_level": [
         "College / Upper Division (Undergraduates)",
         "Graduate / Professional",
-        "Career /Technical"
+        "Career / Technical"
     ],
     "abstract": "The executive, associate, and advisory editors and all of the editorial board members of one of the most influential journals in moral and political philosophy, Philosophy & Public Affairs, have resigned en masse.",
     "language": [

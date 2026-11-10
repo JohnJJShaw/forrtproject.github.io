@@ -37,8 +37,8 @@
         "Methodology",
         "Philosophy of Science"
     ],
-    "forrt_clusters_new": "Academic Structures and Institutions",
-    "forrt_sub_clusters": "Research assessment, proposals, and reforms, Structures and incentives in academia",
+    "forrt_clusters_new": "Academic Structures and Institutions, Conceptual and Statistical Knowledge, Replication Crisis and Credibility Revolution",
+    "forrt_sub_clusters": "Research assessment, proposals, and reforms, Structures and incentives in academia, Philosophy of science, Ongoing debates (e.g., incentives for and against open science practices)",
     "doi": "10.36850/ed4",
     "in-clusters": true,
     "pdf name": "",

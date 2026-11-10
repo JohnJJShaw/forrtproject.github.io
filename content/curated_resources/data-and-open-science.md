@@ -12,9 +12,9 @@
     ],
     "education_level": [
         "College / Upper Division (Undergraduates)",
-        "Career /Technical"
+        "Career / Technical"
     ],
-    "abstract": "n.a.",
+    "abstract": "Editorial in RAE \u2013 Revista de Administra\u00e7\u00e3o de Empresas (2019) on open access to articles, transparency in peer review, and the more controversial move towards open access to the research data behind published articles.",
     "language": [
         "Portugese"
     ],

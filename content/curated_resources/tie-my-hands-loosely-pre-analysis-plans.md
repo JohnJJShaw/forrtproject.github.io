@@ -12,7 +12,7 @@
     "education_level": [
         "College / Upper Division (Undergraduates)",
         "Graduate / Professional",
-        "Career /Technical",
+        "Career / Technical",
         "Adult Education"
     ],
     "abstract": "In this short article, I want to provide some of my thoughts on these developments from the perspective of someone who writes PAPs and reads them as a reviewer, as well as from the perspective of a journal editor.",

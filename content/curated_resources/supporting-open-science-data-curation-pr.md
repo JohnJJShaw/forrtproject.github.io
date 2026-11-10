@@ -4,7 +4,7 @@
     "title": "Supporting Open Science Data Curation, Preservation, and Access by Libraries",
     "link_to_resource": "https://www.youtube.com/watch?v=SbmGWHpzAHs",
     "creators": [
-        ""
+        "Center for Open Science"
     ],
     "material_type": [
         "Lecture"

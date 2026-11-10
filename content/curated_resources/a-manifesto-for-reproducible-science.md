@@ -4,7 +4,16 @@
     "title": "A manifesto for reproducible science",
     "link_to_resource": "https://doi.org/10.1038/s41562-016-0021",
     "creators": [
-        "M. R. Munafo et al."
+        "Marcus R. Munaf\u00f2",
+        "Brian A. Nosek",
+        "Dorothy V. M. Bishop",
+        "Katherine S. Button",
+        "Christopher D. Chambers",
+        "Nathalie Percie du Sert",
+        "Uri Simonsohn",
+        "Eric-Jan Wagenmakers",
+        "Jennifer J. Ware",
+        "John P. A. Ioannidis"
     ],
     "material_type": [
         "Primary Source",

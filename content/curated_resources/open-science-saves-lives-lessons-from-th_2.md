@@ -47,7 +47,7 @@
         "COVID-19"
     ],
     "forrt_clusters_new": "Academic Structures and Institutions, Replication Crisis and Credibility Revolution",
-    "forrt_sub_clusters": "Ongoing debates (e.g., incentives for and against open science practices), Socially Responsible Research",
+    "forrt_sub_clusters": "Ongoing debates (e.g., incentives for and against open science practices), Socially Responsible Research, Proposed science improvement initiatives on statistics, measurement, teaching, data sharing, code sharing, pre-registration, & replication",
     "doi": "10.1186/s12874-021-01304-y",
     "in-clusters": true,
     "pdf name": "",

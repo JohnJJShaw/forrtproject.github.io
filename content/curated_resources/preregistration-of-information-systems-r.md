@@ -15,7 +15,7 @@
     "education_level": [
         "College / Upper Division (Undergraduates)",
         "Graduate / Professional",
-        "Career /Technical",
+        "Career / Technical",
         "Adult Education"
     ],
     "abstract": "In this paper, we introduce the preregistration concept for experiments in the information systems (IS) discipline. Preregistration constitutes a way to commit to analytic steps before collecting or observing data and, thus, mitigate any biases authors may have (consciously or not) towards reporting significant findings. We explain why preregistration matters, how to preregister a study, the benefits of preregistration, and common arguments against preregistration. We also offer a call to action for authors to conduct more preregistered work in IS.",

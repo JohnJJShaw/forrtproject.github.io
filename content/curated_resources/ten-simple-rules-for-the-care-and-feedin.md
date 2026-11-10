@@ -4,7 +4,21 @@
     "title": "Ten Simple Rules for the Care and Feeding of Scientific Data",
     "link_to_resource": "https://doi.org/10.1371/journal.pcbi.1003542",
     "creators": [
-        "Alyssa Goodman et al."
+        "Alyssa Goodman",
+        "Alberto Pepe",
+        "Alexander W. Blocker",
+        "Christine L. Borgman",
+        "Kyle Cranmer",
+        "Merce Crosas",
+        "Rosanne Di Stefano",
+        "Yolanda Gil",
+        "Paul Groth",
+        "Margaret Hedstrom",
+        "David W. Hogg",
+        "Vinay Kashyap",
+        "Ashish Mahabal",
+        "Aneta Siemiginowska",
+        "Aleksandra Slavkovic"
     ],
     "material_type": [
         "Primary Source",

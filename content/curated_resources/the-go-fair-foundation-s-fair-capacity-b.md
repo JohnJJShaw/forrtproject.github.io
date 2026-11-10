@@ -11,7 +11,7 @@
         "Reading"
     ],
     "education_level": [
-        "Career /Technical"
+        "Career / Technical"
     ],
     "abstract": "The GO FAIR Foundation's FAIR Capacity Building Programme provides professional and qualified training for data stewards who aspire to use methods developed under the Three-Point FAIRificaiton Framework (3PFF) in their daily work to make data and metadata FAIR, and to conduct qualified 3PFF workshops themselves. The FAIR Capacity Building Programme is designed to save costs and increase independence by locally embedding know-how in the organization. This document can be cited when referencing events and training materials associated with or inspired by the GO FAIR Foundation's FAIR Capacity Building Programme.",
     "language": [

@@ -4,7 +4,8 @@
     "title": "Open Scholarship: Where are the Self-Correcting Mechanisms of Science?",
     "link_to_resource": "https://www.youtube.com/watch?v=Vfc98WDfDJE",
     "creators": [
-        ""
+        "Simine Vazire",
+        "Center for Open Science"
     ],
     "material_type": [
         "Lecture"

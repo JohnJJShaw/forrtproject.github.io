@@ -12,7 +12,7 @@
     "education_level": [
         "College / Upper Division (Undergraduates)",
         "Graduate / Professional",
-        "Career /Technical",
+        "Career / Technical",
         "Adult Education"
     ],
     "abstract": "OpenMReye is an open-source toolset that enables eye tracking directly from MRI signals, eliminating the need for expensive MR-compatible camera systems. By using computational methods instead of hardware, it dramatically reduces costs, works on existing datasets, and supports diverse populations, including those for whom traditional eye tracking isn\u2019t feasible. This approach promotes more inclusive, transparent, and rigorous brain imaging research worldwide.",

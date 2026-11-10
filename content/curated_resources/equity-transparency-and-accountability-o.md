@@ -15,7 +15,7 @@
     "education_level": [
         "College / Upper Division (Undergraduates)",
         "Graduate / Professional",
-        "Career /Technical",
+        "Career / Technical",
         "Adult Education"
     ],
     "abstract": "Knowledge is essential to saving lives and improving wellbeing. The term open science has been applied to improving the transparency of knowledge generation, but open science also has the potential to address many of the problems of inequity, inaccuracy, and misconduct that plague research, as well as to build public trust.",

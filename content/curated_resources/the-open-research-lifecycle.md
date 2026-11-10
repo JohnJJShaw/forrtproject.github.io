@@ -4,7 +4,7 @@
     "title": "The Open Research Lifecycle",
     "link_to_resource": "https://www.youtube.com/watch?v=9YuNGB3vNOw",
     "creators": [
-        ""
+        "Center for Open Science"
     ],
     "material_type": [
         "Lecture"

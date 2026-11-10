@@ -4,7 +4,7 @@
     "title": "Leveraging Open Ecosystems to Enhance Reproducible Workflows",
     "link_to_resource": "https://www.youtube.com/watch?v=z9QpLYMM1aQ",
     "creators": [
-        ""
+        "Center for Open Science"
     ],
     "material_type": [
         "Lesson"

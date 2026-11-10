@@ -15,7 +15,7 @@
     "education_level": [
         "College / Upper Division (Undergraduates)"
     ],
-    "abstract": "Registered reports a Method to Increase the Credibility of Published Results",
+    "abstract": "Editorial introducing a special issue of Social Psychology that presents Registered Reports, in which peer review takes place before data collection and results are reported regardless of outcome. The issue contains 14 Registered Reports of replications of important results in social psychology.",
     "language": [
         "English"
     ],

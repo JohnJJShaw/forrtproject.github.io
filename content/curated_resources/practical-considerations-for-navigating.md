@@ -13,7 +13,7 @@
     "education_level": [
         "Graduate / Professional"
     ],
-    "abstract": "Practical Considerations for Navigating Registered Reports",
+    "abstract": "Article in Trends in Neurosciences (2019) with practical recommendations for researchers preparing Registered Reports, such as how to specify confirmatory hypotheses and demonstrate sufficient statistical power.",
     "language": [
         "English"
     ],

@@ -13,7 +13,7 @@
     "education_level": [
         "College / Upper Division (Undergraduates)",
         "Graduate / Professional",
-        "Career /Technical",
+        "Career / Technical",
         "Adult Education"
     ],
     "abstract": "We summarize our career advice on everything from writing effectively and giving a stellar presentation to writing a CV and negotiating a job offer. ",

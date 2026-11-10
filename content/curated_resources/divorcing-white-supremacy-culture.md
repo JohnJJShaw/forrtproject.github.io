@@ -12,7 +12,7 @@
     "education_level": [
         "College / Upper Division (Undergraduates)",
         "Graduate / Professional",
-        "Career /Technical",
+        "Career / Technical",
         "Adult Education"
     ],
     "abstract": "This website is a long-time dream finally bearing fruit, a needed remix of the widely circulated article WHITE SUPREMACY CULTURE originally written and published in 1999.",

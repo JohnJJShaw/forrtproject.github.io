@@ -12,7 +12,7 @@
     "education_level": [
         "College / Upper Division (Undergraduates)",
         "Graduate / Professional",
-        "Career /Technical",
+        "Career / Technical",
         "Adult Education"
     ],
     "abstract": "This webpage describes the NIH's data management and sharing policies, including policies for genomic data sharing, and sharing data about model organisms. It also has guides for research tools, clinical trials, research publications, and accessing data.",

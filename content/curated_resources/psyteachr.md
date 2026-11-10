@@ -4,7 +4,8 @@
     "title": "PsyTeachR",
     "link_to_resource": "https://psyteachr.github.io/",
     "creators": [
-        ""
+        "PsyTeachR team",
+        "University of Glasgow School of Psychology and Neuroscience"
     ],
     "material_type": [
         "Textbook"

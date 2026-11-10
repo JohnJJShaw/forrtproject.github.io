@@ -12,7 +12,7 @@
     "education_level": [
         "College / Upper Division (Undergraduates)"
     ],
-    "abstract": "N.A.",
+    "abstract": "",
     "language": [
         "English"
     ],

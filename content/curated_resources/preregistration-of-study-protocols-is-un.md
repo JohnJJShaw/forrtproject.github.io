@@ -12,7 +12,7 @@
     "education_level": [
         "College / Upper Division (Undergraduates)",
         "Graduate / Professional",
-        "Career /Technical",
+        "Career / Technical",
         "Adult Education"
     ],
     "abstract": "A recent workshop focused on the idea that protocols for nonrandomized studies should be registered in advance of their conduct. In reviewing the workshop report and publications citing it, I note a number of unfounded assumptions and little attention to competing alternatives.",

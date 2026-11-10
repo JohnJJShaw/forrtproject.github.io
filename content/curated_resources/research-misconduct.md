@@ -12,7 +12,7 @@
     "education_level": [
         "College / Upper Division (Undergraduates)",
         "Graduate / Professional",
-        "Career /Technical",
+        "Career / Technical",
         "Adult Education"
     ],
     "abstract": "A compilation of articles regarding Research Misconduct issues. This page offers news-worthy topics for the Responsible Conduct of Research and Research Misconduct.",

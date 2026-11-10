@@ -1,5 +1,5 @@
 {
-    "exclude": "",
+    "exclude": true,
     "timestamp": "2/20/2025 5:28:36",
     "title": "A Guide for Social Science Journal Editors on Easing into Open Science",
     "link_to_resource": "https://doi.org/10.31219/osf.io/hstcx",

@@ -4,7 +4,26 @@
     "title": "Teaching replicable and reproducible science",
     "link_to_resource": "https://osf.io/x7d45/",
     "creators": [
-        "Kirsten Lane et al."
+        "Kristin Lane",
+        "Heather L. Urry",
+        "Jack Arnal",
+        "Robert Calin-Jageman",
+        "Lisa DeBruine",
+        "Emily Kothe",
+        "Sanjay Srivastava",
+        "Julia Strand",
+        "William J. Chopik",
+        "Erin Michelle Buchanan",
+        "Sam Parsons",
+        "Crystal N. Steltenpohl",
+        "Katie Hoeberling",
+        "Kristan A. Marchak",
+        "Madeline Harms",
+        "Mich\u00e8le B. Nuijten",
+        "Donald Tellinghuisen",
+        "Rachelle Martino",
+        "Amanda Ferguson",
+        "Eric Vanman"
     ],
     "material_type": [
         "Module",

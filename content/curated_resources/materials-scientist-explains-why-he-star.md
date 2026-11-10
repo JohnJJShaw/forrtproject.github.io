@@ -13,7 +13,7 @@
         "College / Upper Division (Undergraduates)",
         "Graduate / Professional"
     ],
-    "abstract": "n.a.",
+    "abstract": "News article from C&EN (June 2024) in which Angus Wilkinson, a materials scientist at the University of Oxford, reflects on his first six months as a part-time research sleuth commenting on PubPeer.",
     "language": [
         "English"
     ],

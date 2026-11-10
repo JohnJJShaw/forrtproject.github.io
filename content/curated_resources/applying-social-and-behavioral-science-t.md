@@ -13,7 +13,7 @@
         "College / Upper Division (Undergraduates)",
         "Graduate / Professional"
     ],
-    "abstract": "n.a.",
+    "abstract": "Post from the White House Office of Science and Technology Policy (May 2024) announcing the Blueprint for the Use of Social and Behavioral Science to Advance Evidence-Based Policymaking. The blueprint recommends actions for federal agencies to use social and behavioral science when developing policies and programs.",
     "language": [
         "English"
     ],

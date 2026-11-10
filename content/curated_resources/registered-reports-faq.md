@@ -12,7 +12,7 @@
     "education_level": [
         "Graduate / Professional"
     ],
-    "abstract": "Registered Reports FAQ",
+    "abstract": "Answers to frequently asked questions about Registered Reports, grouped by topic: novelty of the format, philosophy of science, design and analysis, timescale, creativity and exploration, career incentives, scientific quality, workload, gaming the system, and questions from journal editors.",
     "language": [
         "English"
     ],

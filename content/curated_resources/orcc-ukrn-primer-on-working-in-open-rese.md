@@ -24,7 +24,7 @@
     ],
     "education_level": [
         "Graduate / Professional",
-        "Career /Technical"
+        "Career / Technical"
     ],
     "abstract": "This is an introductory guide for those working and considering working in the area of open research. It was drafted by members of the Open Research Competencies Coalition. There are many resources available on the topic of open research either aimed at those working in open research roles or more generally on open research practices. A list is included in the document.\n\n",
     "language": [

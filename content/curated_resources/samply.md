@@ -14,7 +14,7 @@
     "education_level": [
         "College / Upper Division (Undergraduates)",
         "Graduate / Professional",
-        "Career /Technical",
+        "Career / Technical",
         "Adult Education"
     ],
     "abstract": "Samply schedules push notifications to study participants on a flexible, repeating cadence. It works for any longitudinal design \u2014 daily diaries, experience-sampling, intervention studies, clinical trials \u2014 wherever you need to reach participants more than once.",

@@ -19,7 +19,7 @@
         "College / Upper Division (Undergraduates)",
         "Graduate / Professional"
     ],
-    "abstract": "N.A.",
+    "abstract": "Report from an online workshop in July 2023 at which 30 participants from academia, citizen science, hardware making, the arts, NASA and UNESCO explored the role of open source hardware in space research. It sets out needs and opportunities, barriers and challenges, and the key actors to engage.",
     "language": [
         "English"
     ],

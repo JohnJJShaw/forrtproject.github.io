@@ -1,5 +1,5 @@
 {
-    "exclude": "",
+    "exclude": true,
     "timestamp": "01/01/2020",
     "title": "Embedding open and reproducible science into teaching: A bank of lesson plans and resources",
     "link_to_resource": "https://psyarxiv.com/fgv79/",

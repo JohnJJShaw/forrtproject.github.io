@@ -4,7 +4,10 @@
     "title": "The Generalizability of Survey Experiments",
     "link_to_resource": "https://doi.org/10.1017/XPS.2015.19",
     "creators": [
-        "Kevin J. Mullinix et al."
+        "Kevin J. Mullinix",
+        "Thomas J. Leeper",
+        "James N. Druckman",
+        "Jeremy Freese"
     ],
     "material_type": [
         "Primary Source",

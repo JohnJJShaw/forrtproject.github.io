@@ -49,8 +49,8 @@
     "tags": [
         "Open Scholarship; Research Training; Higher Education; Pedagogy; Teaching Resources; Lesson Plans; Open Educational Resources (OER)"
     ],
-    "forrt_clusters_new": "",
-    "forrt_sub_clusters": "Proposed science improvement initiatives on statistics, measurement, teaching, data sharing, code sharing, pre-registration, & replication",
+    "forrt_clusters_new": "Ways of Working",
+    "forrt_sub_clusters": "Proposed science improvement initiatives on statistics, measurement, teaching, data sharing, code sharing, pre-registration, & replication, Research with students (under- and graduate)",
     "doi": "10.1037/stl0000307",
     "in-clusters": true,
     "pdf name": "",

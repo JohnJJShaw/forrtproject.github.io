@@ -16,7 +16,7 @@
     "education_level": [
         "College / Upper Division (Undergraduates)",
         "Graduate / Professional",
-        "Career /Technical",
+        "Career / Technical",
         "Adult Education"
     ],
     "abstract": "The OE Challenge is a learning resource of small doable activities you can work through at your own pace. The series is a fun way for educators to get a taste of\u202f Open Education Practices (OEP) in micro-activities that you can do in 10 minutes or less and that cover a small aspect of open education.",

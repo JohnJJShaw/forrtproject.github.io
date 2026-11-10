@@ -12,7 +12,7 @@
     "education_level": [
         "College / Upper Division (Undergraduates)",
         "Graduate / Professional",
-        "Career /Technical",
+        "Career / Technical",
         "Adult Education"
     ],
     "abstract": "Pre-registration promises to address some of the problems with traditional peer-review. As we publish our first Registered Report, we take stock of two years of submissions and the future possibilities of this approach.",

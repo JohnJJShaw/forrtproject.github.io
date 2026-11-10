@@ -4,7 +4,7 @@
     "title": "Getting Involved with TOP Factor",
     "link_to_resource": "https://www.youtube.com/watch?v=keKBIyx38XI",
     "creators": [
-        ""
+        "Center for Open Science"
     ],
     "material_type": [
         "Lecture"

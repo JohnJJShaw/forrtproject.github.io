@@ -12,7 +12,7 @@
     "education_level": [
         "College / Upper Division (Undergraduates)",
         "Graduate / Professional",
-        "Career /Technical"
+        "Career / Technical"
     ],
     "abstract": "Blaze is an email newsletter service that automatically curates the best independent technical writing from the past week into newsletter digests. We place a strong focus on discovery, and try to strike a balance between quality, relevance and diversity. The project was borne out of frustration with the traditional means of discovering and reading technical content. ",
     "language": [

@@ -14,7 +14,7 @@
     "education_level": [
         "College / Upper Division (Undergraduates)",
         "Graduate / Professional",
-        "Career /Technical"
+        "Career / Technical"
     ],
     "abstract": "Today, we are releasing DataCite\u2019s first public data file with metadata for over 52 million DOIs. ",
     "language": [

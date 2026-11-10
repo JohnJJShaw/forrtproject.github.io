@@ -12,7 +12,7 @@
     "education_level": [
         "College / Upper Division (Undergraduates)",
         "Graduate / Professional",
-        "Career /Technical",
+        "Career / Technical",
         "Adult Education"
     ],
     "abstract": "Journal authorship practices have not sufficiently evolved to reflect the way research is now done. Improvements to support teams, collaboration, and open science are urgently needed.",

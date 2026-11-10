@@ -4,7 +4,7 @@
     "title": "The Preregistration Challenge: A How To Guide",
     "link_to_resource": "https://www.youtube.com/watch?v=QAr2-3IdG4Q",
     "creators": [
-        ""
+        "Center for Open Science"
     ],
     "material_type": [
         "Lesson"

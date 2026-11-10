@@ -4,7 +4,9 @@
     "title": "Infra Finder: Your Hub for Finding Infrastructure Services Enabling Open Research and Scholarship",
     "link_to_resource": "https://investinopen.org/blog/infra-finder-your-hub-for-finding-infrastructure-services-enabling-open-research-and-scholarship/",
     "creators": [
-        "Chrys Wu et al."
+        "Kaitlin Thaney",
+        "Lauren Collister",
+        "Emmy Tsang"
     ],
     "material_type": [
         "Infrastructure Resource Navigator"

@@ -4,7 +4,14 @@
     "title": "Using prediction markets to estimate the reproducibility of scientific research",
     "link_to_resource": "https://doi.org/10.1073/pnas.1516179112",
     "creators": [
-        "Anna Drebner et al."
+        "Anna Dreber",
+        "Thomas Pfeiffer",
+        "Johan Almenberg",
+        "Siri Isaksson",
+        "Brad Wilson",
+        "Yiling Chen",
+        "Brian A. Nosek",
+        "Magnus Johannesson"
     ],
     "material_type": [
         "Primary Source",

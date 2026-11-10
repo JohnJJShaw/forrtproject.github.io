@@ -4,7 +4,11 @@
     "title": "Effect of open peer review on quality of reviews and on reviewers'recommendations: a randomised trial",
     "link_to_resource": "https://doi.org/10.1136/bmj.318.7175.23",
     "creators": [
-        "Susan van Rooyen et al."
+        "Susan van Rooyen",
+        "Fiona Godlee",
+        "Stephen Evans",
+        "Nick Black",
+        "Richard Smith"
     ],
     "material_type": [
         "Primary Source",

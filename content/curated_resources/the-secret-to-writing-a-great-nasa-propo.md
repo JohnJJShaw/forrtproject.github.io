@@ -12,7 +12,7 @@
     "education_level": [
         "College / Upper Division (Undergraduates)",
         "Graduate / Professional",
-        "Career /Technical",
+        "Career / Technical",
         "Adult Education"
     ],
     "abstract": "Use a real NASA proposal as a roadmap and follow these tips for clearly presenting your research ideas. I\u2019m a 100% soft money-funded research scientist primarily funded by NASA research grants. I teamed with the Jet Propulsion Laboratory (JPL) to lead a $190M NASA proposal. JPL\u2019s mission formulation group provided a lot of help and guidance to our team. What I learned applies to most proposals, whether they are for $100K or $100M.",
