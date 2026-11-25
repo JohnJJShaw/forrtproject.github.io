@@ -2,7 +2,7 @@
     "exclude": "",
     "timestamp": "2/13/2025 10:36:50",
     "title": "ARIADNE: A Scientific Navigator to Find Your Way Through the Resource Labyrinth of Psychological Sciences",
-    "link_to_resource": "\nhttps://doi.org/10.1177/25152459241297674",
+    "link_to_resource": "https://doi.org/10.1177/25152459241297674",
     "creators": [
         "Helena Hartmann",
         "\u00c7a\u011fatay G\u00fcrsoy",

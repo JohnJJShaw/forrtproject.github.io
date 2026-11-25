@@ -2,7 +2,7 @@
     "exclude": "",
     "timestamp": "2020-05-22T18:40:59.988Z",
     "title": "The preregistration revolution",
-    "link_to_resource": "https://www.pnas.org/content/115/11/2600",
+    "link_to_resource": "https://doi.org/10.1073/pnas.1708274114",
     "creators": [
         "Brian A. Nosek",
         "Charles R. Ebersole",
@@ -38,8 +38,8 @@
     ],
     "forrt_clusters_new": "Pre-analysis Planning",
     "forrt_sub_clusters": "Purpose of pre-analysis planning, Preregistration",
-    "doi": "",
-    "in-clusters": false,
+    "doi": "10.1073/pnas.1708274114",
+    "in-clusters": true,
     "pdf name": "",
     "apa reference": ""
 }

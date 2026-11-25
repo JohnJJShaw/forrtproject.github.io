@@ -2,7 +2,7 @@
     "exclude": "",
     "timestamp": "1/9/2025 10:29:04",
     "title": "Reporting Standards for Complication Studies of Radiation Therapy for Pediatric Cancer: Lessons From PENTEC",
-    "link_to_resource": "https://www.redjournal.org/article/S0360-3016(24)00325-0/fulltext",
+    "link_to_resource": "https://doi.org/10.1016/j.ijrobp.2024.02.018",
     "creators": [
         "Andrew Jackson",
         "Chia-Ho Hua",
@@ -43,7 +43,7 @@
     ],
     "forrt_clusters_new": "FAIR data and materials",
     "forrt_sub_clusters": "Metadata standards",
-    "doi": "",
+    "doi": "10.1016/j.ijrobp.2024.02.018",
     "in-clusters": false,
     "pdf name": "",
     "apa reference": ""

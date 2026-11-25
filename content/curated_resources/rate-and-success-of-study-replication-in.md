@@ -2,7 +2,7 @@
     "exclude": "",
     "timestamp": "01/01/2020",
     "title": "Rate and success of study replication in ecology and evolution",
-    "link_to_resource": "https://peerj.com/articles/7654/",
+    "link_to_resource": "https://doi.org/10.7717/peerj.7654",
     "creators": [
         "Clint D. Kelly"
     ],
@@ -33,8 +33,8 @@
     ],
     "forrt_clusters_new": "Replication Crisis and Credibility Revolution",
     "forrt_sub_clusters": "Collection of large scale replications",
-    "doi": "",
-    "in-clusters": false,
+    "doi": "10.7717/peerj.7654",
+    "in-clusters": true,
     "pdf name": "",
     "apa reference": ""
 }

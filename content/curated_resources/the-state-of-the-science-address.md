@@ -2,7 +2,7 @@
     "exclude": "",
     "timestamp": "1/9/2025 10:49:58",
     "title": "The State of the Science Address",
-    "link_to_resource": "https://www.nationalacademies.org/event/41687_06-2024_the-state-of-the-science",
+    "link_to_resource": "https://www.nationalacademies.org/units/PGA-POLICY-20-23/event/41687",
     "creators": [
         "Marcia McNutt",
         "Harvey V. Fineberg",

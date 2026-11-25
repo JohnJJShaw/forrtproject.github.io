@@ -2,7 +2,7 @@
     "exclude": "",
     "timestamp": "2020-06-03T20:14:19.516Z",
     "title": "Measurement error and the replication crisis. ",
-    "link_to_resource": "http://science.sciencemag.org/content/355/6325/584",
+    "link_to_resource": "https://doi.org/10.1126/science.aal3618",
     "creators": [
         "E. Loken",
         "A. Gelman"
@@ -34,8 +34,8 @@
     ],
     "forrt_clusters_new": "Conceptual and Statistical Knowledge",
     "forrt_sub_clusters": "Questionable measurement practices (QMPs), validity & reliability issues.",
-    "doi": "",
-    "in-clusters": false,
+    "doi": "10.1126/science.aal3618",
+    "in-clusters": true,
     "pdf name": "",
     "apa reference": ""
 }

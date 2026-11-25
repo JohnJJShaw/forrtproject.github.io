@@ -2,7 +2,7 @@
     "exclude": "",
     "timestamp": "7/16/2025 3:37:18",
     "title": "JUST PREPARE \u2010 Putting REsident Practices And REsidential areas at the center of a JUST and effective energy transition in underprivileged neighbourhoods",
-    "link_to_resource": "https://www.energielabzuidoost.nl/just-prepare/",
+    "link_to_resource": "https://www.energielabzuidoost.nl/living-lab-oud/just-prepare/",
     "creators": [
         "Charissa Leiwakabessy"
     ],

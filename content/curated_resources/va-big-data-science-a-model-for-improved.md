@@ -2,7 +2,7 @@
     "exclude": "",
     "timestamp": "1/12/2025 10:29:53",
     "title": "VA Big Data Science: A Model for Improved National Pandemic Response Present and Future",
-    "link_to_resource": " https://doi.org/10.12788/fp.0412",
+    "link_to_resource": "https://doi.org/10.12788/fp.0412",
     "creators": [
         "Yinong Young-Xu",
         "Victoria Davey",

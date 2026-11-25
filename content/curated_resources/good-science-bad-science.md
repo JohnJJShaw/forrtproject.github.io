@@ -2,7 +2,7 @@
     "exclude": "",
     "timestamp": "2020-05-08T07:17:17.000Z",
     "title": "Good Science, Bad Science",
-    "link_to_resource": "http://www.ejwagenmakers.com/GSBS/GSBS.html",
+    "link_to_resource": "https://www.ejwagenmakers.com/GSBS/GSBS.html",
     "creators": [
         "Eric-Jan Wagenmakers"
     ],

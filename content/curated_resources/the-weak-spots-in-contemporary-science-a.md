@@ -2,7 +2,7 @@
     "exclude": "",
     "timestamp": "01/01/2020",
     "title": "The Weak Spots in Contemporary Science (and How to Fix Them)",
-    "link_to_resource": "https://www.mdpi.com/2076-2615/7/12/90",
+    "link_to_resource": "https://doi.org/10.3390/ani7120090",
     "creators": [
         "Jelte M. Wicherts"
     ],
@@ -36,8 +36,8 @@
     ],
     "forrt_clusters_new": "Replication Crisis and Credibility Revolution",
     "forrt_sub_clusters": "Questionable research practices & their prevalence, Scientific Misconduct: Fabrication and Falsification",
-    "doi": "",
-    "in-clusters": false,
+    "doi": "10.3390/ani7120090",
+    "in-clusters": true,
     "pdf name": "",
     "apa reference": ""
 }

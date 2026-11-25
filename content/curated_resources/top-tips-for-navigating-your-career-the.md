@@ -2,7 +2,7 @@
     "exclude": "",
     "timestamp": "2/27/2025 3:27:01",
     "title": "Top tips for navigating your career: The Hidden Curriculum",
-    "link_to_resource": "https://jayvanbavellab.substack.com/p/top-tips-for-navigating-your-career?utm_source=profile&utm_medium=reader2",
+    "link_to_resource": "https://www.centerconflictcooperation-newsletter.com/p/top-tips-for-navigating-your-career",
     "creators": [
         "Sarah Mughal",
         "Jay van Bavel"

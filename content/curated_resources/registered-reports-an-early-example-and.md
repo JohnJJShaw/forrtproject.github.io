@@ -2,7 +2,7 @@
     "exclude": "",
     "timestamp": "01/01/2020",
     "title": "Registered reports: an early example and analysis",
-    "link_to_resource": "https://peerj.com/articles/6232/",
+    "link_to_resource": "https://doi.org/10.7717/peerj.6232",
     "creators": [
         "Caroline Watt",
         "Diana Kornbrot",
@@ -38,8 +38,8 @@
     ],
     "forrt_clusters_new": "Pre-analysis Planning",
     "forrt_sub_clusters": "Registered reports",
-    "doi": "",
-    "in-clusters": false,
+    "doi": "10.7717/peerj.6232",
+    "in-clusters": true,
     "pdf name": "",
     "apa reference": ""
 }

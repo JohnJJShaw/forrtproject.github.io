@@ -2,7 +2,7 @@
     "exclude": "",
     "timestamp": "01/01/2020",
     "title": "The earth is flat (p > 0.05): significance thresholds and the crisis of unreplicable research",
-    "link_to_resource": "https://peerj.com/articles/3544/",
+    "link_to_resource": "https://doi.org/10.7717/peerj.3544",
     "creators": [
         "Fr\u00e4nzi Korner-Nievergelt",
         "Tobias Roth",
@@ -37,8 +37,8 @@
     ],
     "forrt_clusters_new": "Conceptual and Statistical Knowledge",
     "forrt_sub_clusters": "The logic of null hypothesis testing, p-values, Type I and II errors (and when and why they might happen)., Limitations and benefits of NHST, Bayesian & Likelihood approaches.",
-    "doi": "",
-    "in-clusters": false,
+    "doi": "10.7717/peerj.3544",
+    "in-clusters": true,
     "pdf name": "",
     "apa reference": ""
 }

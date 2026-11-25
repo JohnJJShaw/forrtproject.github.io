@@ -2,7 +2,7 @@
     "exclude": "",
     "timestamp": "01/01/2020",
     "title": "Signaling the trustworthiness of science",
-    "link_to_resource": "https://www.pnas.org/doi/10.1073/pnas.1913039116",
+    "link_to_resource": "https://doi.org/10.1073/pnas.1913039116",
     "creators": [
         "Kathleen Hall Jamieson",
         "Marcia McNutt",
